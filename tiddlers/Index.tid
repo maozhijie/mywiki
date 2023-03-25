@@ -1,7 +1,7 @@
 created: 20230104152413814
 creator: 林一二
 icon: 📒
-modified: 20230325183457341
+modified: 20230325184117726
 modifier: zhangyanj
 page-cover: https://source.unsplash.com/random
 title: Index
@@ -9,6 +9,8 @@ tmap.id: 2bf9bff1-50c4-40ab-a0a3-870134dc49ad
 type: text/vnd.tiddlywiki
 
 Visit [ext[Tutorial (Chinese)|https://tw-cn.netlify.app/]] or [ext[Official Site (English)|https://tiddlywiki.com/]] to learn.
+
+<<reuse-tiddler "快速创建新笔记按钮">>
 
 <<reuse-tiddler "$:/plugins/linonetwo/intention-tower-knowledge-graph/ViewTemplate/PriorityTaskDynamicTable">>
 
