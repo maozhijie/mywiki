@@ -1,18 +1,20 @@
 created: 20230104152413814
 creator: 林一二
 icon: 📒
-modified: 20230325182949094
+modified: 20230325183457341
 modifier: zhangyanj
 page-cover: https://source.unsplash.com/random
 title: Index
 tmap.id: 2bf9bff1-50c4-40ab-a0a3-870134dc49ad
 type: text/vnd.tiddlywiki
 
-Click {{$:/core/images/edit-button}} button on top-right of this card to start edit.
-
 Visit [ext[Tutorial (Chinese)|https://tw-cn.netlify.app/]] or [ext[Official Site (English)|https://tiddlywiki.com/]] to learn.
+
+<<reuse-tiddler "$:/plugins/linonetwo/intention-tower-knowledge-graph/ViewTemplate/PriorityTaskDynamicTable">>
 
 <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/GitHubHeatMap.js"  $height="200px" subfilter="[!is[shadow]!is[system]!field:calendarEntry[yes]]" />
 
 
-[[$:/ControlPanel]]
+
+
+[[控制台|$:/ControlPanel]]
