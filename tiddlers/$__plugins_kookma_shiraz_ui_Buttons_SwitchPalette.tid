@@ -3,9 +3,9 @@ created: 20230325164345280
 creator: zhangyanj
 dark-palette: $:/palettes/SolarizedDark
 description: Toggle between light/dark color palette
-light-palette: $:/palettes/Vanilla
+light-palette: $:/palettes/SolarizedLight
 list-after: 
-modified: 20230325164443751
+modified: 20230325165937030
 modifier: zhangyanj
 tags: $:/tags/PageControls
 title: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette
