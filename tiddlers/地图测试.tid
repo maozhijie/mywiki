@@ -1,0 +1,12 @@
+created: 20230325170504271
+creator: zhangyanj
+modified: 20230325172300692
+modifier: zhangyanj
+point: 
+tags: 
+title: 地图测试
+type: text/vnd.tiddlywiki
+
+地图测试
+
+<$geoloc target="Geolocation Store" />
