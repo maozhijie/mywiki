@@ -1,6 +1,6 @@
 created: 20230324182442412
 creator: zhangyanj
-modified: 20230326041853057
+modified: 20230326050104629
 modifier: zhangyanj
 tags: 摄入媒介 项目
 title: 游戏
@@ -16,7 +16,7 @@ type: text/vnd.tiddlywiki
 <$macrocall
   $name="aggregation-filtersearch"
   
-  state="aggregation-电子游戏"
+  state="电子游戏"
 />
 fields=<<dtableFields>>
  

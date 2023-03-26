@@ -1,12 +1,14 @@
 created: 20230104152413814
 creator: 林一二
 icon: 📒
-modified: 20230325184117726
+modified: 20230326045423326
 modifier: zhangyanj
 page-cover: https://source.unsplash.com/random
 title: Index
 tmap.id: 2bf9bff1-50c4-40ab-a0a3-870134dc49ad
 type: text/vnd.tiddlywiki
+
+<<dbadge 笔记应用 "[[TGNote|https://github.com/tiddly-gittly/TiddlyGit-Desktop]]" info>> <<dbadge 部署 "[[Github Actions|https://github.com/tiddly-gittly/TiddlyWiki-Chinese-Tutorial/actions]]" success>>
 
 Visit [ext[Tutorial (Chinese)|https://tw-cn.netlify.app/]] or [ext[Official Site (English)|https://tiddlywiki.com/]] to learn.
 
