@@ -3,7 +3,7 @@ created: 20230326095414315
 creator: zhangyanj
 description: Show a toggle button for view fields
 list-before: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette
-modified: 20230326095417971
+modified: 20230326161310692
 modifier: zhangyanj
 tags: $:/tags/PageControls
 title: $:/plugins/kookma/utility/ui/Buttons/ViewFields

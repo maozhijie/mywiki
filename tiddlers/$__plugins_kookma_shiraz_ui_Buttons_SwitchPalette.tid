@@ -5,7 +5,7 @@ dark-palette: $:/palettes/SolarFlare
 description: Toggle between light/dark color palette
 light-palette: $:/palettes/Vanilla
 list-after: 
-modified: 20230326075010612
+modified: 20230326161231109
 modifier: zhangyanj
 tags: $:/tags/PageControls
 title: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette

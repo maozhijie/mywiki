@@ -1,9 +1,9 @@
 created: 20230326095419987
 creator: zhangyanj
 description: makes storyriver centered when sidebar is closed
-modified: 20230326095424139
+modified: 20230326161246788
 modifier: zhangyanj
-tags: $:/tags/Stylesheet
+tags: 
 title: $:/plugins/kookma/utility/styles/centered-storyriver
 type: text/vnd.tiddlywiki
 
