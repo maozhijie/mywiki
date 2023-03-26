@@ -1,6 +1,6 @@
 created: 20230326090557966
 creator: zhangyanj
-modified: 20230326180722384
+modified: 20230326181634649
 modifier: zhangyanj
 param: 
 tags: Index
@@ -10,5 +10,7 @@ type: text/vnd.tiddlywiki
 
 <$macrocall
 	$name="input-only-tag-tree"
-	tags=[tag[意义]]
+	tags="[tag[意义]get]"
 />
+
+[tag[意义]get[title]unique[]]
