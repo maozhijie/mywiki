@@ -1,0 +1,3 @@
+filter: [field:title{$:/temp/tmap/currentTiddler}] [field:tmap.id[afaeab54-17dd-4dac-bc85-c2109b0012cd]]
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Live View/filter/nodes
+type: text/vnd.tiddlywiki

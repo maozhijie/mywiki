@@ -1,11 +1,14 @@
+config.central-topic: afaeab54-17dd-4dac-bc85-c2109b0012cd
+config.neighbourhood_directions: in
 config.neighbourhood_scope: 4
 config.physics_mode: true
+config.raster: 75
 config.refresh-triggers: $:/temp/tmap/currentTiddler
 config.vis: {"physics":{"forceAtlas2Based":{"springConstant":0.09}}}
 created: 20150331114808577
 creator: zhangyanj
 isview: true
-modified: 20230325182700437
+modified: 20230326154458566
 modifier: zhangyanj
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Live View
 type: text/vnd.tiddlywiki
