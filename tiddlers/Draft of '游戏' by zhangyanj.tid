@@ -2,7 +2,7 @@ created: 20230324182442412
 creator: zhangyanj
 draft.of: 游戏
 draft.title: 游戏
-modified: 20230326040012697
+modified: 20230326041925072
 modifier: zhangyanj
 tags: 摄入媒介 项目
 title: Draft of '游戏' by zhangyanj
@@ -17,6 +17,8 @@ type: text/vnd.tiddlywiki
 电子游戏
 <$macrocall
   $name="aggregation-filtersearch"
-  fields=<<dtableFields>>
-  state="aggregation-english"
+  
+  state="aggregation-电子游戏"
 />
+fields=<<dtableFields>>
+ 
