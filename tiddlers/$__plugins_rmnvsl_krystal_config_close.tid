@@ -1,8 +1,8 @@
 created: 20230326080619626
 creator: zhangyanj
-modified: 20230326080620290
+modified: 20230326080847298
 modifier: zhangyanj
 title: $:/plugins/rmnvsl/krystal/config/close
 type: text/vnd.tiddlywiki
 
-enable
+disable

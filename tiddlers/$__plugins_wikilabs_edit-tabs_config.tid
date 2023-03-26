@@ -1,13 +1,13 @@
 created: 20230325165141015
 creator: zhangyanj
 initial-opacity: 0.7
-link-action: tm-edit-tiddler
-modified: 20230325165152519
+link-action: tm-navigate
+modified: 20230326082959969
 modifier: zhangyanj
 show-all-links: none
 show-single-link: inline
 title: $:/plugins/wikilabs/edit-tabs/config
-transition: 0.3
+transition: 0.2
 type: text/vnd.tiddlywiki
 
 This tiddler is used to configure the "Edit-tabs" plugin behaviour. 

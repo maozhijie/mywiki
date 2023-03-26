@@ -1,8 +1,18 @@
 created: 20230326073230029
 creator: zhangyanj
-modified: 20230326074545724
+difficulty: 5
+due: 20230328081159978
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230326081159978
 modifier: zhangyanj
 param: 
+reps: 1
+retrievability: 1
+review: 20230326081159977
+stability: 2
 tags: $:/tags/TextEditor/Template ?
 title: 电子游戏模板
 tmap.id: d6bcca2f-2a0e-402e-9f7f-84b84db47eb9
