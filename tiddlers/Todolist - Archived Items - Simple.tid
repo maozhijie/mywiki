@@ -1,0 +1,17 @@
+created: 20230327063211264
+modified: 20230327063211264
+tags: 
+td-namespace: Simple
+title: Todolist - Archived Items - Simple
+tmap.id: 35829dab-0578-46f3-8100-4957e80bfe87
+type: text/vnd.tiddlywiki
+
+\import $:/plugins/kookma/todolist/macros/archive-operations
+\import $:/plugins/kookma/todolist/macros/priority
+
+!! Archive of completed (done) items
+
+<$macrocall $name="todolist-empty-archived-tiddler" base={{!!td-namespace}} />
+
+> <$macrocall $name="todolist-list-archived-items"  base={{!!td-namespace}} />
+
