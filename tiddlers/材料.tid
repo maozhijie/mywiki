@@ -1,0 +1,8 @@
+created: 20230327031930962
+modified: 20230327031939528
+tags: Index
+title: 材料
+tmap.id: d428235d-5f85-44d6-8a1f-5f31be5bdaa7
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
