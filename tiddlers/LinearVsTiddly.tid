@@ -1,0 +1,21 @@
+created: 20200514202104901
+es: likely
+modified: 20210508233457831
+tags: Information PersonalDocumentation Writing Design Public Idea
+title: LinearVsTiddly
+tmap.id: ac22d0c3-8af6-4642-8e55-b0a8d38b8f59
+type: text/vnd.tiddlywiki
+
+A common mistake in the discussion of HierarchiesVersusNetworks is to assume that networks are inherently superior in all situations. Among people who learn about systems like TiddlyWiki and the ZettelKasten which allow splitting content into small, reusable units, a similar assumption is that small, reusable units are simply a better way of organizing information than linear articles, papers, or books.
+
+I don't think this is true. For one thing, I find it difficult to believe that the linear narrative organization has survived for several millennia based on no strengths of its own. Sure, the computer and the rise of hypertext has made it easier to implement other systems, but the more basic and perfectly functional ones were always possible with index cards, or even page numbers or messily-linked section headings in a book. I know page numbers didn't exist until centuries after books, but the point is that people likely would have started exploring alternatives more quickly if the linear organization wasn't working at all. You can always be surprised at how long it takes for an important idea to show up, but the balance of the evidence seems to point to linear narrative being a good organization in many ways, though of course not without its flaws.
+
+I think there's something more profound here though, which is that "tiddly", nonlinear organization in a ConceptWeb is better for modeling one's own thought and things one knows. Linear organization is better for communication. Linearity allows the author to explain themselves, to take the reader through a series of steps that build on each other and result in understanding. That's not something you can do in a tiddly system; the unfamiliar user wanders through it. Imagine a really good teacher presenting her students with a tiddly learning style. She would teach something for two minutes, then provide the students with a big list of related topics, and it would be up to them to choose where to go next. How is that supposed to work?
+
+Linear organization, on both a large and small scale, also forces the author to think in a different way (linearization is a major part of WritingIsThinking). Often the small scale is enough for this purpose, but it's hard to imagine not learning more about a subject by trying to outline it into book form, for instance.
+
+Within a tiddly system, it's sometimes useful to have micro-linearizations, such as my MicrosoftBuild2020 notes, which tiddlifies each session (and the insights from those sessions), but also provides a chronological and categorical ordering of the whole thing.
+
+(I do recognize the irony of publishing a ZettelKasten that says that tiddly organization is a bad way of communicating with others. But that's a kind of PerfectIsTheEnemyOfGood fallacy. I do write TheControlAltBackspace in the “better way of communicating”; but there's a lot here that would simply never see the light of day unless it was published here. Better //something// out there than nothing at all.
+
+MrAndyMatuschak has also pointed out the potential benefit of a ZK-ish system for extending conversation. This is similar. You probably don't have a blog post ready for all your important ideas, but you might have tiddlers for many of them. And perhaps the lazy structure is a benefit in the conversational context.)
