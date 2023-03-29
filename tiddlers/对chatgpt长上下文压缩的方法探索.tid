@@ -1,7 +1,18 @@
 created: 20230327093022244
-modified: 20230327093346326
-tags: chatx项目 ChatGPT 项目
+modified: 20230329080047780
+tags: chatx项目 ChatGPT 项目 任务
 title: 对chatgpt长上下文压缩的方法探索
 tmap.id: e2451f8a-ee87-4075-a68b-fb0059a0b401
-tmo_taskState: New
+tmo_taskState: Completed
 type: text/vnd.tiddlywiki
+
+!!使用词向量解决
+#上下文准备
+##先进行文本分组
+##对分组的每个文本通过openai接口得到词向量
+##存储词向量与对应的分组文本
+#chat部分
+##在调用chat接口之前先得到词向量
+##将与此词向量相关的前n条词向量对应的文本加入上下文
+##调用聊天接口
+
