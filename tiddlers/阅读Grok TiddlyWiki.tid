@@ -1,9 +1,19 @@
 caption: 
 created: 20230327145832056
 creator: zhangyanj
-modified: 20230327164717976
+difficulty: 5
+due: 20230401161831697
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230330161831697
 modifier: zhangyanj
-tags: 任务 太微学习 ? 材料
+reps: 1
+retrievability: 1
+review: 20230330161831697
+stability: 2
+tags: 任务 太微学习 材料 ?
 title: 阅读Grok TiddlyWiki
 tmap.id: 3cd9f178-4ab8-44ad-bbdc-5614328fe4ae
 tmo_taskState: New

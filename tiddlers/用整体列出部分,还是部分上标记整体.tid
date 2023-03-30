@@ -1,7 +1,17 @@
 created: 20230328143636937
 creator: zhangyanj
-modified: 20230328143759056
+difficulty: 5
+due: 20230401161839241
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230330161839241
 modifier: zhangyanj
+reps: 1
+retrievability: 1
+review: 20230330161839241
+stability: 2
 tags: [[阅读Grok TiddlyWiki]] ?
 title: 用整体列出部分,还是部分上标记整体
 tmap.id: efc2ac29-c356-46e1-a9d3-16fc6e6661b5
