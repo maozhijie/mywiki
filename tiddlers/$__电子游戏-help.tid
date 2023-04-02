@@ -1,0 +1,35 @@
+color: #bbb
+created: 20230402133533134
+creator: zhangyanj
+icon: $:/core/images/help
+modified: 20230402133533136
+modifier: zhangyanj
+title: $:/电子游戏-help
+type: text/vnd.tiddlywiki
+
+!! 默认条目列表
+
+<<list-links filter:"[enlist{$:/电子游戏/default-tiddlers}]" type:"ol">>
+
+!! 删除聚合主题
+
+<$button style="padding:1px 20px;" aria-label="delete aggregation view">
+DELETE
+<$action-confirm $message="Are you sure you wish to delete this aggregation view?">
+<$list filter={{$:/电子游戏/default-tiddlers}}>
+<$action-sendmessage $message="tm-close-tiddler" param=<<currentTiddler>>/>
+<$action-deletetiddler $tiddler=<<currentTiddler>>/>
+</$list>
+</$action-confirm>
+</$button>
+<$button style="padding:1px 20px;" aria-label="delete aggregation topic">
+DELETE ALL
+<$action-confirm $message="Are you sure you wish to completely delete this aggregation topic?">
+<$list filter="[enlist{$:/电子游戏/default-tiddlers}] [tag[电子游戏]]">
+<$action-sendmessage $message="tm-close-tiddler" param=<<currentTiddler>>/>
+<$action-deletetiddler $tiddler=<<currentTiddler>>/>
+</$list>
+</$action-confirm>
+</$button>
+
+<div class="gray-box"><small> `DELETE` 只删除聚合视图。`DELETE ALL` 会删除聚合条目：<<tag """电子游戏""">>。</small></div>

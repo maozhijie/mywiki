@@ -1,8 +1,44 @@
-created: 20230326041855481
+.taghandler: 
+caption: {{$:/xp/images/aggregation-nc}} 电子游戏
+color: #bbb
+created: 20230402133834443
 creator: zhangyanj
-modified: 20230327060853319
+icon: $:/xp/images/aggregation-nc
+modified: 20230402133834445
 modifier: zhangyanj
-tags: 游戏
 title: 电子游戏
-tmap.id: 54c59712-444b-44b7-9fee-23b8773f4b05
+tmap.id: 26b33350-229f-497d-bb20-86c5b7d0b076
 type: text/vnd.tiddlywiki
+
+<$vars aggregationTag="""电子游戏"""
+       uiTitle="""$:/config/xp/aggregation/ui/电子游戏"""
+       config-base="""$:/config/xp/aggregation-电子游戏/TableFields/Visibility/""">
+
+<div class="tc-sidebar-lists xp-float-right">
+<$button tooltip="Create a new 电子游戏" aria-label="new 电子游戏" class="tc-btn-invisible tc-btn-mini">
+<$action-sendmessage
+  $message="tm-new-tiddler"
+  title=<<now "电子游戏/YYYY0MM0DD0hh0mm0ssXXX">>
+  tags="[[电子游戏]]"
+  caption="电子游戏"
+  color=""
+  description=""
+  importance=""
+/>
+<span class="tc-btn-icon">{{$:/core/images/new-button}}</span> new 电子游戏
+</$button>&emsp;<<aggregationCount>>&emsp;<<help-button-to "$:/电子游戏-help" "电子游戏 Help">>
+</div>
+
+<$wikify name="dtableFields" text="""<$list filter="[list[$:/config/xp/aggregation-电子游戏/TableFields]]" variable="listField"><$reveal type="match" state=<<field-config-title>> text="show"> <$text text={{{ [<listField>format:titlelist[]] }}}/> </$reveal></$list>""">
+<$macrocall
+  $name="aggregation-filtersearch"
+  fields=<<dtableFields>>
+  state="aggregation-电子游戏"
+  class=""
+  cardTemplate=""
+  searchClass="xp-search-电子游戏"
+  promptTiddler=""
+/>
+</$wikify>
+
+</$vars>
