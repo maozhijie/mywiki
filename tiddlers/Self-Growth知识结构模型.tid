@@ -1,19 +1,19 @@
 caption: 
 created: 20230204065857901
 creator: WhiteFall
-difficulty: 5
-due: 20230331161914241
-grade: -1
-history: []
-interval: 1
+difficulty: 4.1000000000000005
+due: 20230408130527587
+grade: 2
+history: [{"due":"20230331161914241","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161914241"}]
+interval: 2
 lapses: 0
-modified: 20230330161914241
+modified: 20230402130527587
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230330161914241
-stability: 2
-tags: 元知识 摘录 摄入媒介 ? .
+reps: 2
+retrievability: 0.9
+review: 20230402130527587
+stability: 6.091873624375545
+tags: 元知识 摘录 摄入媒介 . ?
 title: Self-Growth知识结构模型
 tmap.id: 488bef9e-0dd1-4367-a553-f26ab08e9c84
 type: text/vnd.tiddlywiki

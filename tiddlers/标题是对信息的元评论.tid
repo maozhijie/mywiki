@@ -1,17 +1,17 @@
 created: 20230329054136997
 creator: zhangyanj
-difficulty: 5
-due: 20230401161844417
-grade: -1
-history: []
-interval: 0
+difficulty: 4.1000000000000005
+due: 20230408131051420
+grade: 2
+history: [{"due":"20230401161844417","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161844417"}]
+interval: 2
 lapses: 0
-modified: 20230330161844417
+modified: 20230402131051420
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230330161844417
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230402131051420
+stability: 6.091873624375545
 tags: [[阅读Grok TiddlyWiki]] ?
 title: 标题是对信息的元评论
 tmap.id: 79880f7e-ec62-48b3-b1d7-6e330af26afb
