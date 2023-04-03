@@ -1,11 +1,11 @@
 caption: {{$:/plugins/kookma/shiraz/images/palette-switch}} {{$:/language/Buttons/Shiraz/Caption}}
 created: 20230325164345280
 creator: zhangyanj
-dark-palette: $:/palettes/SolarFlare
+dark-palette: $:/palettes/Vanilla
 description: Toggle between light/dark color palette
 light-palette: $:/palettes/Vanilla
 list-after: 
-modified: 20230326161231109
+modified: 20230403024051363
 modifier: zhangyanj
 tags: $:/tags/PageControls
 title: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette
