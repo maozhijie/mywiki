@@ -3,5 +3,5 @@ title: $:/config/FileSystemPaths
 type: text/vnd.tiddlywiki
 
 
+
 [kin::to[ptid]search-replace:g[/],[_]search-replace:g[:],[_]addprefix[/]addprefix[pwiki]addprefix[/]addprefix[subwiki]]
-[kin::to[testsy]search-replace:g[/],[_]search-replace:g[:],[_]addprefix[/]addprefix[wiki]addprefix[/]addprefix[subwiki]]
