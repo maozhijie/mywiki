@@ -5,3 +5,7 @@ type: text/vnd.tiddlywiki
 
 
 [kin::to[ptid]search-replace:g[/],[_]search-replace:g[:],[_]addprefix[/]addprefix[pwiki]addprefix[/]addprefix[subwiki]]
+
+
+[!is[system]kin::to[ptid]addprefix[subwiki/private-wiki/]]
+[!is[system]kin::to[Photos]addprefix[subwiki/private-wiki-photos/]]
