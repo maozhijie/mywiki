@@ -1,0 +1,11 @@
+created: 20230407104518079
+modified: 20230407104519252
+parent: python/20230407104257958
+stream-type: default
+title: python/20230407104518078
+tmap.id: 11c8ea97-0f65-4cf0-a8d8-3f53c93552e9
+type: text/vnd.tiddlywiki
+
+为什么要使用虚拟环境？随着你的 Python 项目越来越多，你会发现不同的项目会需要 不同的版本的 Python 库。同一个 Python 库的不同版本可能不兼容。
+
+虚拟环境可以为每一个项目安装独立的 Python 库，这样就可以隔离不同项目之间的 Python 库，也可以隔离项目与操作系统之间的 Python 库。
