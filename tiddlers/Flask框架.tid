@@ -1,5 +1,11 @@
 created: 20230407105147854
-modified: 20230407105147854
+modified: 20230407111343858
+tags: python
 title: Flask框架
 tmap.id: c300c3ca-aee8-4116-8878-17bbd5be437a
 type: text/vnd.tiddlywiki
+
+web微框架 
+
+*Jinja2 模板引擎 
+*WSGI工具集
