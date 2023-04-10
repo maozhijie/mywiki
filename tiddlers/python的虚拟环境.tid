@@ -1,6 +1,18 @@
 created: 20230410110745451
-modified: 20230410110812818
-tags: ? python
+difficulty: 5
+due: 20230412111619025
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230410111619025
+reps: 1
+retrievability: 1
+review: 20230410111619025
+stability: 2
+stream-list: python的虚拟环境/20230410111546752
+stream-type: default
+tags: python ?
 title: python的虚拟环境
 tmap.id: 5a48f860-56af-4b86-a2a7-dd0898454c45
 type: text/vnd.tiddlywiki

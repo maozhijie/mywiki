@@ -1,6 +1,18 @@
 created: 20230410110558111
-modified: 20230410110605110
-tags: ? python
+difficulty: 5
+due: 20230412111534116
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230410111534116
+reps: 1
+retrievability: 1
+review: 20230410111534116
+stability: 2
+stream-list: pypy/20230410111435435
+stream-type: default
+tags: python ?
 title: pypy
 tmap.id: c096d56d-6efd-4c96-a9e8-3b387b50a253
 type: text/vnd.tiddlywiki

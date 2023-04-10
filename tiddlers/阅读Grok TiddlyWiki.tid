@@ -1,18 +1,18 @@
 caption: 
 created: 20230327145832056
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230408130504315
+difficulty: 5.1582034015854665
+due: 20230427111841046
 grade: 1
-history: [{"due":"20230401161831697","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161831697"}]
-interval: 2
+history: [{"due":"20230401161831697","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161831697"},{"due":"20230408130504315","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230402130504315"}]
+interval: 8
 lapses: 0
-modified: 20230402130504315
+modified: 20230410111841046
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230402130504315
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8582034015854654
+review: 20230410111841046
+stability: 16.869537326515847
 tags: 任务 太微学习 材料 ?
 title: 阅读Grok TiddlyWiki
 tmap.id: 3cd9f178-4ab8-44ad-bbdc-5614328fe4ae

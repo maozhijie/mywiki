@@ -1,9 +1,9 @@
 created: 20230410064040393
-modified: 20230410064234845
-parent: 作为使用类c语言的人,python可能需要注意的特性
+modified: 20230410111133862
+parent: python的注释
 stream-type: default
 title: 作为使用类c语言的人,python可能需要注意的特性/20230410064040391
 tmap.id: 0bdbaaa5-9ddb-410a-8dc6-a81261d4603a
 type: text/vnd.tiddlywiki
 
-python单行注释使用#号
+单行注释使用#号

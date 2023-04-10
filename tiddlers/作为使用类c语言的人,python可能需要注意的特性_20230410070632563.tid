@@ -1,9 +1,9 @@
 created: 20230410070632565
-modified: 20230410070644808
+modified: 20230410111019864
 parent: 作为使用类c语言的人,python可能需要注意的特性
 stream-type: default
 title: 作为使用类c语言的人,python可能需要注意的特性/20230410070632563
 tmap.id: ae21a322-bbcb-44fe-b2e0-45cb5c83aaf0
 type: text/vnd.tiddlywiki
 
-迭代器与生成器
+[[迭代器与生成器]]
