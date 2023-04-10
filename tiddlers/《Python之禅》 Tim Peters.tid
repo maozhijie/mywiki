@@ -1,0 +1,45 @@
+created: 20230410061327862
+modified: 20230410062138961
+tags: python ?
+title: 《Python之禅》 Tim Peters
+tmap.id: 4ff3eea2-1c4a-4e97-8823-e8f745898fe9
+type: text/vnd.tiddlywiki
+
+
+优美胜于丑陋
+
+明了胜于隐晦
+
+简洁胜于复杂
+
+复杂胜于混乱
+
+扁平胜于嵌套
+
+宽松胜于紧凑
+
+可读性很重要
+
+即便是特例，也不可违背这些规则
+
+虽然现实往往不那么完美但是不应该放过任何异常
+
+除非你确定需要如此
+
+如果存在多种可能，不要猜测肯定有一种——通常也是唯一一种——最佳的解决方案
+
+虽然这并不容易，因为你不是Python之父
+
+动手比不动手要好
+
+但不假思索就动手还不如不做
+
+如果你的方案很难懂，那肯定不是一个好方案
+
+如果你的方案很好懂，那可能是一个好方案
+
+命名空间非常有用，我们应当多加利用
+
+[ext[引用|bookxnotepro://opennote/?nb={523967fc-de58-465d-bbb9-4b9519b546de}&book=e5b1af8a5c06996cba02f9e1e178a09d&page=4569&x=135&y=726&id=431&uuid=3b045ee7db202bf52d463e15e8a87238]]
+
+参考解读:[ext[1.7.1 Python语言的指导原则|bookxnotepro://opennote/?nb={523967fc-de58-465d-bbb9-4b9519b546de}&book=e5b1af8a5c06996cba02f9e1e178a09d&page=2260&x=176&y=662&id=433&uuid=8c048b240692a19b20f1f6a016c04eee]]
