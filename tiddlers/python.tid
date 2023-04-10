@@ -1,20 +1,29 @@
 caption: 
 created: 20230407104242493
-modified: 20230410063145573
-stream-list: python/20230410060910086 python/20230410060915988 python/20230410063145571 python/20230410060933040 python/20230410061144147 python/20230410062359460 python/20230410062406234 python/20230410062844993 python/20230410063006924
-stream-type: default
-tags: ? 待完善 编程语言
+difficulty: 5
+due: 20230412110820171
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230410110820171
+reps: 1
+retrievability: 1
+review: 20230410110820171
+stability: 2
+tags: 待完善 编程语言 ?
 title: python
 tmap.id: da0ae47e-10e0-4e54-8379-b0d1c2fa28d2
 type: text/vnd.tiddlywiki
 
-* python虚拟环境
-** <div>
-
-为什么要使用虚拟环境？随着你的 Python 项目越来越多，你会发现不同的项目会需要 不同的版本的 Python 库。同一个 Python 库的不同版本可能不兼容。
-
-虚拟环境可以为每一个项目安装独立的 Python 库，这样就可以隔离不同项目之间的 Python 库，也可以隔离项目与操作系统之间的 Python 库。
-</div>
-* python2
-* python3
-
+*[[python的虚拟环境]]
+* [[python2]]
+* [[python3]]
+* python的性能是个问题
+* python的多线程与并发是个问题
+* python有交互式解释器
+* Python认同“自备电池”的哲学
+* python是脚本语言
+* python有解释性、编译性,但主要是解释性的
+* python是知名的胶水语言
+* python是面向对象的
