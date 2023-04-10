@@ -1,0 +1,16 @@
+created: 20230410064735452
+modified: 20230410064759143
+parent: 作为使用类c语言的人,python可能需要注意的特性
+stream-list: 
+stream-type: default
+title: 作为使用类c语言的人,python可能需要注意的特性/20230410064735450
+tmap.id: 77885817-b185-4f89-b65a-52d653a6adfe
+type: text/vnd.tiddlywiki
+
+python的保留字
+
+```
+>>> import keyword
+>>> keyword.kwlist
+['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+```

@@ -1,0 +1,15 @@
+created: 20230410064741904
+modified: 20230410065245182
+parent: 作为使用类c语言的人,python可能需要注意的特性/20230410064827001
+stream-type: default
+title: 作为使用类c语言的人,python可能需要注意的特性/20230410064741903
+tmap.id: 844bc4e0-ca6b-427d-aede-bf0d6fb5582e
+type: text/vnd.tiddlywiki
+
+使用反斜杠 \ 来实现多行语句
+
+```
+total = item_one + \
+        item_two + \
+        item_three
+```

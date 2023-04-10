@@ -1,0 +1,15 @@
+created: 20230410064257374
+modified: 20230410064611508
+parent: 作为使用类c语言的人,python可能需要注意的特性
+stream-type: default
+title: 作为使用类c语言的人,python可能需要注意的特性/20230410064257373
+tmap.id: 079a7139-de4c-4b7d-a07c-50988fd99641
+type: text/vnd.tiddlywiki
+
+```
+'''
+这是多行注释，用三个单引号
+这是多行注释，用三个单引号 
+这是多行注释，用三个单引号
+'''
+```
