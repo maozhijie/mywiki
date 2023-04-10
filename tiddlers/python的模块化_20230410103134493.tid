@@ -1,0 +1,13 @@
+created: 20230410103134494
+modified: 20230410103321749
+parent: python的模块化/20230410102714199
+stream-list: 
+stream-type: default
+title: python的模块化/20230410103134493
+tmap.id: b5485962-e683-4c3f-86bf-b08493de2ee8
+type: text/vnd.tiddlywiki
+
+```
+__name__属性
+每个模块都有__name__属性，当其值是'__main__'时，表明该模块自身在运行，否则是被引入。
+```

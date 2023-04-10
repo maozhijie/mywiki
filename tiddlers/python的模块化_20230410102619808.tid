@@ -1,0 +1,9 @@
+created: 20230410102619810
+modified: 20230410103024944
+parent: python的模块化/20230410102533383
+stream-type: default
+title: python的模块化/20230410102619808
+tmap.id: 7cd8b177-e40f-474d-b40a-3a00e7000448
+type: text/vnd.tiddlywiki
+
+包的实际形式是存在__init__.py文件的文件夹
