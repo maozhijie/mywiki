@@ -1,6 +1,16 @@
 created: 20230411094629088
-modified: 20230411094643225
-tags: 间隔重复 ? 软件
+difficulty: 5
+due: 20230413101224533
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230411101224533
+reps: 1
+retrievability: 1
+review: 20230411101224533
+stability: 2
+tags: 间隔重复 软件 ?
 title: superMemo
 tmap.id: c3f59f61-7bdf-4873-814a-8bfaec86a7db
 type: text/vnd.tiddlywiki
