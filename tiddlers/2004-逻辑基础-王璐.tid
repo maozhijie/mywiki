@@ -1,16 +1,26 @@
 caption: a book
 created: 20230402154102007
 creator: zhangyanj
+difficulty: 5
+due: 20230413065518426
+grade: -1
+history: []
 image: $:/book.png
 importance: 1
+interval: 0
+lapses: 0
 link: 
 linkcolor: 
 list: 时间块1-10
-modified: 20230406064503236
+modified: 20230411065518426
 modifier: zhangyanj
+reps: 1
+retrievability: 1
+review: 20230411065518426
+stability: 2
 stream-list: 2004-逻辑基础-王璐/20230402160317398
 stream-type: default
-tags: Book Planning Others
+tags: Book Planning Others ?
 title: 2004-逻辑基础-王璐
 tmap.id: de49000b-5d27-4641-a85c-4959142f624a
 type: text/vnd.tiddlywiki
@@ -23,28 +33,8 @@ type: text/vnd.tiddlywiki
 
 *[[承传人文薪火,复兴清华哲学|2004-逻辑基础-王璐/承传人文薪火,复兴清华哲学]]
 *[[序|2004-逻辑基础-王璐/序]]
-*第一章 绪论
-**1.1 逻辑简史
-**1.2 逻辑的性质
-**1.3 形式逻辑
-**1.4 逻辑、语言与思维
-**思考题
-*第二章 命题逻辑
-**2.1 命题联结词与命题形式
-**2.2 真值形式：否定词、合取词、析取词
-**2.3 真值形式：蕴涵词、等值词
-**2.4 括号与主联结词
-**2.5 重言式与有效性
-**2.6 真值表法
-**2.7 简化真值表法
-**2.8 真值树法
-**2.9 命题推理的证明规则
-**2.10 等值规则
-**2.11 条件证明
-**2.12 间接证明
-**2.13 重言式的形式证明
-**2.14 命题逻辑推理规则的运用
-**习题
+*[[2004-逻辑基础-王璐/第一章 绪论]]
+*[[2004-逻辑基础-王璐/第二章 命题逻辑]]
 *第三章 词项逻辑
 **3.1 直言命题及其形式
 **3.2 类与存在假定

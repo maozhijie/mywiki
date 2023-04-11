@@ -1,21 +1,21 @@
 caption: 
 created: 20230402151018758
 creator: zhangyanj
-difficulty: 5
-due: 20230407070816197
-grade: -1
-history: []
-interval: 1
+difficulty: 4.968433471420917
+due: 20230422070528183
+grade: 1
+history: [{"due":"20230407070816197","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230406070816197"}]
+interval: 5
 lapses: 0
-modified: 20230406070816197
+modified: 20230411070528183
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230406070816197
-stability: 2
-stream-list: 关于渐进阅读的时间块方案文章/20230406070431082
+reps: 2
+retrievability: 0.7684334714209162
+review: 20230411070528182
+stability: 10.8623997997734
+stream-list: 关于渐进阅读的时间块方案文章/20230406070431082 关于渐进阅读的时间块方案文章/20230411070316691 关于渐进阅读的时间块方案文章/20230411070445873
 stream-type: default
-tags: 摘录 ? .
+tags: . 材料 ?
 title: 关于渐进阅读的时间块方案文章
 tmap.id: 880230da-b5b7-4623-ad67-6ed8856e2cc6
 type: text/vnd.tiddlywiki
