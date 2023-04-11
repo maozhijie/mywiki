@@ -1,17 +1,17 @@
 created: 20230328143636937
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230408131108259
+difficulty: 5.14195525232829
+due: 20230429073818708
 grade: 1
-history: [{"due":"20230401161839241","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161839241"}]
-interval: 2
+history: [{"due":"20230401161839241","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161839241"},{"due":"20230408131108259","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230402131108259"}]
+interval: 9
 lapses: 0
-modified: 20230402131108259
+modified: 20230411073818708
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230402131108259
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20230411073818707
+stability: 18.30502694108274
 tags: [[阅读Grok TiddlyWiki]] ?
 title: 用整体列出部分,还是部分上标记整体
 tmap.id: efc2ac29-c356-46e1-a9d3-16fc6e6661b5
