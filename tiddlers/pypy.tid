@@ -1,15 +1,15 @@
 created: 20230410110558111
-difficulty: 5
-due: 20230412111534116
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230418022145778
+grade: 1
+history: [{"due":"20230412111534116","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410111534116"}]
+interval: 2
 lapses: 0
-modified: 20230410111534116
-reps: 1
-retrievability: 1
-review: 20230410111534116
-stability: 2
+modified: 20230412022145778
+reps: 2
+retrievability: 0.9
+review: 20230412022145778
+stability: 5.512139752431654
 stream-list: pypy/20230410111435435
 stream-type: default
 tags: python ?

@@ -1,29 +1,31 @@
 caption: 
 created: 20230407104242493
-difficulty: 5
-due: 20230412110820171
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230418021927454
+grade: 1
+history: [{"due":"20230412110820171","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410110820171"}]
+interval: 2
 lapses: 0
-modified: 20230410110820171
-reps: 1
-retrievability: 1
-review: 20230410110820171
-stability: 2
+modified: 20230412022512134
+reps: 2
+retrievability: 0.9
+review: 20230412021927453
+stability: 5.512139752431654
 tags: 待完善 编程语言 ?
 title: python
 tmap.id: da0ae47e-10e0-4e54-8379-b0d1c2fa28d2
 type: text/vnd.tiddlywiki
 
-*[[python的虚拟环境]]
 * [[python2]]
 * [[python3]]
-* python的性能是个问题
-* python的多线程与并发是个问题
-* python有交互式解释器
-* Python认同“自备电池”的哲学
-* python是脚本语言
-* python有解释性、编译性,但主要是解释性的
-* python是知名的胶水语言
-* python是面向对象的
+* python
+** Python认同“自备电池”的哲学
+** python是脚本语言
+** python是知名的胶水语言
+* python的特性
+** python有交互式解释器
+** python是面向对象的
+** python有解释性、编译性,但主要是解释性的
+* python的问题
+** python的性能是个问题 参考[[pypy]]
+** python的多线程与并发是个问题

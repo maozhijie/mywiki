@@ -1,0 +1,9 @@
+created: 20230412022248126
+modified: 20230412022311025
+parent: python的模块化/20230410102812673
+stream-type: default
+title: python的模块化/20230412022248125
+tmap.id: 8e40ca2b-7e1f-437e-81f9-43c9cfa5e9b1
+type: text/vnd.tiddlywiki
+
+也就是说最小单位的代码文件其实就是一个模块

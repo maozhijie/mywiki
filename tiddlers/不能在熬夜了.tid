@@ -1,16 +1,16 @@
 created: 20230410063712152
-difficulty: 5
-due: 20230412111218005
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230418022028804
+grade: 1
+history: [{"due":"20230412111218005","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410111218005"}]
+interval: 2
 lapses: 0
-modified: 20230410111218005
-reps: 1
-retrievability: 1
-review: 20230410111218005
-stability: 2
-stream-list: 不能在熬夜了/20230410111210254
+modified: 20230412022028805
+reps: 2
+retrievability: 0.9
+review: 20230412022028804
+stability: 5.512139752431654
+stream-list: 不能在熬夜了/20230410111210254 不能在熬夜了/20230412022014038
 stream-type: default
 tags: 想法 ?
 title: 不能在熬夜了

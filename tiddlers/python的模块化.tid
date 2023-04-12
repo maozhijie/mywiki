@@ -1,15 +1,15 @@
 created: 20230410102533387
-difficulty: 5
-due: 20230412111323352
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230418022439553
+grade: 1
+history: [{"due":"20230412111323352","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410111323352"}]
+interval: 2
 lapses: 0
-modified: 20230410111323352
-reps: 1
-retrievability: 1
-review: 20230410111323352
-stability: 2
+modified: 20230412022439553
+reps: 2
+retrievability: 0.9
+review: 20230412022439553
+stability: 5.512139752431654
 stream-list: python的模块化/20230410102714199 python的模块化/20230410102533383
 stream-type: default
 tags: python ?

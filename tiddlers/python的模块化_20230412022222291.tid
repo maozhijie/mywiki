@@ -1,0 +1,9 @@
+created: 20230412022222293
+modified: 20230412022239098
+parent: python的模块化/20230410102619808
+stream-type: default
+title: python的模块化/20230412022222291
+tmap.id: a8068fc9-b528-41cb-87a0-9c817e9763df
+type: text/vnd.tiddlywiki
+
+文件夹中应存在__init__.py文件(''3.8之后这个文件不再是必须的'')

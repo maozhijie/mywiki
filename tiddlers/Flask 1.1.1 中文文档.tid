@@ -1,16 +1,18 @@
 caption: 
 created: 20230407102623003
-difficulty: 5
-due: 20230412110504037
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230418021958616
+grade: 1
+history: [{"due":"20230412110504037","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410110504037"}]
+interval: 2
 lapses: 0
-modified: 20230410110504037
-reps: 1
-retrievability: 1
-review: 20230410110504037
-stability: 2
+modified: 20230412021958617
+reps: 2
+retrievability: 0.9
+review: 20230412021958616
+stability: 5.512139752431654
+stream-list: [[Flask 1.1.1 中文文档/20230412021934648]]
+stream-type: default
 tags: 材料 文档 Flask框架 ?
 title: Flask 1.1.1 中文文档
 tmap.id: 5aba8063-4a50-4dad-97fd-f7a319333368

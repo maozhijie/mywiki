@@ -1,0 +1,9 @@
+created: 20230412022721652
+modified: 20230412022759462
+parent: python的虚拟环境/20230412022544963
+stream-type: default
+title: python的虚拟环境/20230412022721651
+tmap.id: d3823c94-bbb8-45d6-87bb-df6d9fd1ec91
+type: text/vnd.tiddlywiki
+
+或者说问题其实是python虚拟环境为什么叫虚拟环境,而不是像其他语言一样的依赖管理或者包管理

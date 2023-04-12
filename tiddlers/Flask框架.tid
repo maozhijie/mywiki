@@ -1,15 +1,17 @@
 created: 20230407105147854
-difficulty: 5
-due: 20230412110839012
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230418023441337
+grade: 1
+history: [{"due":"20230412110839012","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410110839012"}]
+interval: 2
 lapses: 0
-modified: 20230410110839012
-reps: 1
-retrievability: 1
-review: 20230410110839012
-stability: 2
+modified: 20230412023441337
+reps: 2
+retrievability: 0.9
+review: 20230412023441336
+stability: 5.512139752431654
+stream-list: Flask框架/20230412023417576
+stream-type: default
 tags: python ?
 title: Flask框架
 tmap.id: c300c3ca-aee8-4116-8878-17bbd5be437a

@@ -1,5 +1,5 @@
 created: 20230410103134494
-modified: 20230410103321749
+modified: 20230412022357047
 parent: python的模块化/20230410102714199
 stream-list: 
 stream-type: default
@@ -9,5 +9,5 @@ type: text/vnd.tiddlywiki
 
 ```
 __name__属性
-每个模块都有__name__属性，当其值是'__main__'时，表明该模块自身在运行，否则是被引入。
+每个模块都有__name__属性，当其值是'__main__'时，表明该模块自身作为入口在运行，否则是被其它模块引入。
 ```
