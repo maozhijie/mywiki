@@ -1,15 +1,17 @@
 created: 20230411094830986
-difficulty: 5
-due: 20230413101225875
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230419024127932
+grade: 1
+history: [{"due":"20230413101225875","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101225875"}]
+interval: 2
 lapses: 0
-modified: 20230411101225875
-reps: 1
-retrievability: 1
-review: 20230411101225875
-stability: 2
+modified: 20230413024127933
+reps: 2
+retrievability: 0.9
+review: 20230413024127932
+stability: 5.512139752431654
+stream-list: 新的渐进阅读方案/20230413024103617
+stream-type: default
 tags: 想法 渐进阅读 ?
 title: 新的渐进阅读方案
 tmap.id: f60fd8e9-c9b2-4206-b4ab-cb787a8610a3

@@ -1,15 +1,17 @@
 created: 20230411095939067
-difficulty: 5
-due: 20230413101233936
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230419024426111
+grade: 1
+history: [{"due":"20230413101233936","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101233936"}]
+interval: 2
 lapses: 0
-modified: 20230411101233937
-reps: 1
-retrievability: 1
-review: 20230411101233936
-stability: 2
+modified: 20230413024426111
+reps: 2
+retrievability: 0.9
+review: 20230413024426111
+stability: 5.512139752431654
+stream-list: 精力管理有什么好的想法吗?/20230413024411473
+stream-type: default
 tags: 想法 ?
 title: 精力管理有什么好的想法吗?
 tmap.id: 1534712a-e2c0-47c8-b0ce-3eaa9a4d783c

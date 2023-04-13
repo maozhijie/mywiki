@@ -1,23 +1,23 @@
 caption: a book
 created: 20230402154102007
 creator: zhangyanj
-difficulty: 5
-due: 20230413065518426
-grade: -1
-history: []
+difficulty: 5.1000000000000005
+due: 20230419023618816
+grade: 1
+history: [{"due":"20230413065518426","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411065518426"}]
 image: $:/book.png
 importance: 1
-interval: 0
+interval: 2
 lapses: 0
 link: 
 linkcolor: 
 list: 时间块1-10
-modified: 20230411065518426
+modified: 20230413023618816
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230411065518426
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230413023618815
+stability: 5.512139752431654
 stream-list: 2004-逻辑基础-王璐/20230402160317398
 stream-type: default
 tags: Book Planning Others ?
