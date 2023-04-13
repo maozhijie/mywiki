@@ -1,15 +1,15 @@
 created: 20230411094929862
-difficulty: 5
-due: 20230413101228177
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230419025218227
+grade: 1
+history: [{"due":"20230413101228177","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101228177"}]
+interval: 2
 lapses: 0
-modified: 20230411101228177
-reps: 1
-retrievability: 1
-review: 20230411101228177
-stability: 2
+modified: 20230413025218227
+reps: 2
+retrievability: 0.9
+review: 20230413025218226
+stability: 5.512139752431654
 stream-list: 注意力究竟应该怎么管理/20230411095022422
 stream-type: default
 tags: 想法 ?

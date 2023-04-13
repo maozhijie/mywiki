@@ -1,15 +1,17 @@
 created: 20230411093619032
-difficulty: 5
-due: 20230413094139472
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230419025700086
+grade: 1
+history: [{"due":"20230413094139472","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411094139472"}]
+interval: 2
 lapses: 0
-modified: 20230411094139472
-reps: 1
-retrievability: 1
-review: 20230411094139472
-stability: 2
+modified: 20230413025700086
+reps: 2
+retrievability: 0.9
+review: 20230413025700086
+stability: 5.512139752431654
+stream-list: [[Thoughts Memo 专栏/20230413025553853]] [[Thoughts Memo 专栏/20230413025624311]] [[Thoughts Memo 专栏/20230413025625817]] [[Thoughts Memo 专栏/20230413025627605]] [[Thoughts Memo 专栏/20230413025629120]] [[Thoughts Memo 专栏/20230413025631360]] [[Thoughts Memo 专栏/20230413025632600]] [[Thoughts Memo 专栏/20230413025633785]] [[Thoughts Memo 专栏/20230413025634932]]
+stream-type: default
 tags: 材料 ?
 title: Thoughts Memo 专栏
 tmap.id: 6fed092a-d59b-4fce-89aa-75040f63514b

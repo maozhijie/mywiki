@@ -1,9 +1,10 @@
 created: 20230413024501188
-modified: 20230413024554444
+modified: 20230413024904378
 parent: 是否应该重新使用supermemo
+stream-list: 
 stream-type: default
 title: 是否应该重新使用supermemo/20230413024501187
 tmap.id: 6c5acf49-998b-452c-9ba2-26f613d06979
 type: text/vnd.tiddlywiki
 
-此条目问题已经确定,重新使用supermemo,打开新条目记录superMemo与太微单结合方式
+此条目问题已经确定,移出重复队列,重新使用supermemo

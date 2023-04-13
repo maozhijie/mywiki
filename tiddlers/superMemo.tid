@@ -1,15 +1,15 @@
 created: 20230411094629088
-difficulty: 5
-due: 20230413101224533
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230419025741330
+grade: 1
+history: [{"due":"20230413101224533","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101224533"}]
+interval: 2
 lapses: 0
-modified: 20230412024202488
-reps: 1
-retrievability: 1
-review: 20230411101224533
-stability: 2
+modified: 20230413025741330
+reps: 2
+retrievability: 0.9
+review: 20230413025741330
+stability: 5.512139752431654
 tags: 间隔重复 软件 ?
 title: superMemo
 tmap.id: c3f59f61-7bdf-4873-814a-8bfaec86a7db

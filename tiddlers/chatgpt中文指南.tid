@@ -1,17 +1,17 @@
 caption: 
 created: 20230411062013477
-difficulty: 5
-due: 20230413062142981
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230419025538688
+grade: 1
+history: [{"due":"20230413062142981","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411062142981"}]
+interval: 2
 lapses: 0
-modified: 20230411062142982
-reps: 1
-retrievability: 1
-review: 20230411062142981
-stability: 2
-tags: 材料 ?
+modified: 20230413025538688
+reps: 2
+retrievability: 0.9
+review: 20230413025538688
+stability: 5.512139752431654
+tags: 材料 chatgpt ?
 title: chatgpt中文指南
 tmap.id: 5a3ad97e-ec61-45d4-9519-273dba14aef0
 type: text/vnd.tiddlywiki
