@@ -1,0 +1,10 @@
+created: 20230413035026740
+modified: 20230413035617391
+tags: python 库
+title: PyYAML
+tmap.id: f00b81e1-745d-469c-8fb8-b87b1905cc33
+type: text/vnd.tiddlywiki
+
+pip install PyYAML
+
+python中使用yaml文件的库
