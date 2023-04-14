@@ -1,10 +1,17 @@
 created: 20230326175309344
 creator: zhangyanj
-due: 20230414065751157
-interval: 3
-modified: 20230411093723647
+difficulty: 5
+due: 20230415024005527
+grade: -1
+history: []
+interval: 1
+lapses: 0
+modified: 20230414024033521
 modifier: zhangyanj
-review: 20230411065751157
+reps: 1
+retrievability: 1
+review: 20230414024005527
+stability: 2
 stream-list: 电子游戏对我的意义是什么?/20230411065543917 电子游戏对我的意义是什么?/20230411065553449 电子游戏对我的意义是什么?/20230411093723645
 stream-type: default
 tags: 想法 ? .

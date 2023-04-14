@@ -1,6 +1,16 @@
 created: 20230413063253328
-modified: 20230413063316469
-stream-list: JWT/20230413063316466
+difficulty: 5
+due: 20230416022756098
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230414022756098
+reps: 1
+retrievability: 1
+review: 20230414022756098
+stability: 2
+stream-list: JWT/20230414021746896 JWT/20230414021749256 JWT/20230414022451260
 stream-type: default
 tags: ?
 title: JWT

@@ -1,6 +1,18 @@
 created: 20230413025105950
-modified: 20230413025117754
-tags: ? superMemo
+difficulty: 5
+due: 20230416021554635
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230414021554635
+reps: 1
+retrievability: 1
+review: 20230414021554635
+stability: 2
+stream-list: [[SuperMemo Plan/20230414021518170]]
+stream-type: default
+tags: superMemo ?
 title: SuperMemo Plan
 tmap.id: b1ccb59e-4434-4ebd-8b08-e80e22c62e7b
 type: text/vnd.tiddlywiki

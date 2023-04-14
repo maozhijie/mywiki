@@ -1,6 +1,16 @@
 created: 20230413063214983
-modified: 20230413063243526
-tags: python ? 库
+difficulty: 5
+due: 20230416021709096
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230414021709096
+reps: 1
+retrievability: 1
+review: 20230414021709096
+stability: 2
+tags: python 库 ?
 title: PyJWT
 tmap.id: a2be87a8-fc9b-4a3a-b8fd-368ce60f6028
 type: text/vnd.tiddlywiki
