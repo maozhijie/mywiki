@@ -1,8 +1,0 @@
-created: 20230414024302029
-modified: 20230414024510610
-tags: 想法 ?
-title: 需要注意stream插件对私有词条进行操作
-tmap.id: 79fb14c1-4928-450c-9e5c-6bb2fcf145ee
-type: text/vnd.tiddlywiki
-
-可能会导致泄露,stream插件的大纲列表是通过建立条目完成的,而建立的条目不是私有的
