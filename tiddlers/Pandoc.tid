@@ -1,6 +1,20 @@
 created: 20230414101306162
-modified: 20230414101315338
-tags: ? 软件
+creator: zhangyanj
+difficulty: 5
+due: 20230417122406558
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230415122406558
+modifier: zhangyanj
+reps: 1
+retrievability: 1
+review: 20230415122406558
+stability: 2
+stream-list: Pandoc/20230415122343398
+stream-type: default
+tags: 软件 ?
 title: Pandoc
 tmap.id: bf850395-f323-4de1-9b9e-c1e6abc441d7
 type: text/vnd.tiddlywiki
