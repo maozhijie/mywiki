@@ -1,20 +1,20 @@
 created: 20230326175309344
 creator: zhangyanj
-difficulty: 5
-due: 20230415024005527
-grade: -1
-history: []
+difficulty: 5.148683298050514
+due: 20230419122949037
+grade: 1
+history: [{"due":"20230415024005527","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414024005527"}]
 interval: 1
 lapses: 0
-modified: 20230414024033521
+modified: 20230415122949037
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230414024005527
-stability: 2
+reps: 2
+retrievability: 0.9486832980505138
+review: 20230415122949037
+stability: 3.7467775080817907
 stream-list: 电子游戏对我的意义是什么?/20230411065543917 电子游戏对我的意义是什么?/20230411065553449 电子游戏对我的意义是什么?/20230411093723645
 stream-type: default
-tags: 想法 ? .
+tags: 想法 . ?
 title: 电子游戏对我的意义是什么?
 tmap.id: bd9b023a-d0bb-4f51-8068-9e07bd605a1c
 type: text/vnd.tiddlywiki

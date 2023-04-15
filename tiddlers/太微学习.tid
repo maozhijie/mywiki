@@ -1,17 +1,17 @@
 created: 20230326174411774
 creator: zhangyanj
-difficulty: 5
-due: 20230415021645038
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230421122822189
+grade: 1
+history: [{"due":"20230415021645038","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230413021645038"}]
+interval: 2
 lapses: 0
-modified: 20230413021645038
+modified: 20230415122822189
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230413021645038
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230415122822188
+stability: 5.512139752431654
 tags: 项目 任务 智识工具研究 tiddlyWiki ?
 title: 太微学习
 tmap.id: aaaa4993-f3aa-4106-ac8c-f6621da3a12a

@@ -1,20 +1,20 @@
 created: 20230327161301331
 creator: zhangyanj
-difficulty: 5
-due: 20230415024244470
-grade: -1
-history: []
+difficulty: 5.148683298050514
+due: 20230419122951845
+grade: 1
+history: [{"due":"20230415024244470","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414024244470"}]
 interval: 1
 lapses: 0
-modified: 20230414024244470
+modified: 20230415122951845
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230414024244470
-stability: 2
+reps: 2
+retrievability: 0.9486832980505138
+review: 20230415122951845
+stability: 3.7467775080817907
 stream-list: 线性与网状组织/20230414024117565
 stream-type: default
-tags: 想法 ? .
+tags: 想法 . ?
 title: 线性与网状组织
 tmap.id: 9f4a3781-95f0-48d1-b26d-161b975f830c
 type: text/vnd.tiddlywiki
