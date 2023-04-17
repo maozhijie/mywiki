@@ -1,17 +1,17 @@
 created: 20230415120809511
 creator: zhangyanj
-difficulty: 5
-due: 20230417122541174
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230423022509997
+grade: 1
+history: [{"due":"20230417122541174","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415122541174"}]
+interval: 2
 lapses: 0
-modified: 20230415122541174
+modified: 20230417022509997
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230415122541174
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230417022509997
+stability: 5.512139752431654
 stream-list: 如何专注/20230415121430527 如何专注/20230415121441640 如何专注/20230415121515702
 stream-type: default
 tags: 想法 ?

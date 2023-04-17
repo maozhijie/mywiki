@@ -1,16 +1,16 @@
 created: 20230413063253328
-difficulty: 5
-due: 20230416022756098
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20230424023013673
+grade: 1
+history: [{"due":"20230416022756098","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414022756098"}]
+interval: 3
 lapses: 0
-modified: 20230414022756098
-reps: 1
-retrievability: 1
-review: 20230414022756098
-stability: 2
-stream-list: JWT/20230414021746896 JWT/20230414021749256 JWT/20230414022451260
+modified: 20230417023013673
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230417023013673
+stability: 7.290234566162131
+stream-list: JWT/20230414021746896 JWT/20230414021749256 JWT/20230414022451260 JWT/20230417022956400
 stream-type: default
 tags: ?
 title: JWT

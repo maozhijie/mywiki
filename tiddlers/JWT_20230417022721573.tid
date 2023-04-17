@@ -1,0 +1,15 @@
+created: 20230417022721575
+modified: 20230417022729120
+parent: JWT/20230414022512732
+stream-type: default
+title: JWT/20230417022721573
+tmap.id: 8c543b5e-9dec-4ed5-9510-e462d97e0b25
+type: text/vnd.tiddlywiki
+
+Header 部分是一个 JSON 对象，描述 JWT 的元数据，通常是下面的样子。
+
+
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}

@@ -1,15 +1,15 @@
 created: 20230413063214983
-difficulty: 5
-due: 20230416021709096
-grade: -1
-history: []
-interval: 0
+difficulty: 4.0538149682454625
+due: 20230425022030484
+grade: 2
+history: [{"due":"20230416021709096","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414021709096"}]
+interval: 3
 lapses: 0
-modified: 20230414021709096
-reps: 1
-retrievability: 1
-review: 20230414021709096
-stability: 2
+modified: 20230417022030484
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230417022030483
+stability: 8.17310579005002
 tags: python 库 ?
 title: PyJWT
 tmap.id: a2be87a8-fc9b-4a3a-b8fd-368ce60f6028

@@ -1,15 +1,15 @@
 created: 20230413024750558
-difficulty: 5
-due: 20230416021515507
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20230424022012920
+grade: 1
+history: [{"due":"20230416021515507","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414021515507"}]
+interval: 3
 lapses: 0
-modified: 20230414021515507
-reps: 1
-retrievability: 1
-review: 20230414021515507
-stability: 2
+modified: 20230417022012920
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230417022012920
+stability: 7.290234566162131
 stream-list: superMemo与太微的配合方式/20230413025342992 superMemo与太微的配合方式/20230413030129562 superMemo与太微的配合方式/20230413030147944
 stream-type: default
 tags: superMemo tiddlyWiki 智识工具研究 ?

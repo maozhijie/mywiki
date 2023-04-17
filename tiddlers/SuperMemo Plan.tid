@@ -1,16 +1,16 @@
 created: 20230413025105950
-difficulty: 5
-due: 20230416021554635
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20230424022155205
+grade: 1
+history: [{"due":"20230416021554635","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414021554635"}]
+interval: 3
 lapses: 0
-modified: 20230414021554635
-reps: 1
-retrievability: 1
-review: 20230414021554635
-stability: 2
-stream-list: [[SuperMemo Plan/20230414021518170]]
+modified: 20230417022155205
+reps: 2
+retrievability: 0.8538149682454624
+review: 20230417022155205
+stability: 7.290234566162131
+stream-list: [[SuperMemo Plan/20230414021518170]] [[SuperMemo Plan/20230417022037496]] [[SuperMemo Plan/20230417022108929]]
 stream-type: default
 tags: superMemo ?
 title: SuperMemo Plan

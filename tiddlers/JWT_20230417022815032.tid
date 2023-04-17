@@ -1,0 +1,18 @@
+created: 20230417022815034
+modified: 20230417023010332
+parent: JWT/20230414022525381
+stream-type: default
+title: JWT/20230417022815032
+tmap.id: e9f3004c-c0f6-47bd-8f91-aa866bca7457
+type: text/vnd.tiddlywiki
+
+Signature 部分是对前两部分的签名，防止数据篡改。
+
+首先，需要指定一个密钥（secret）。这个密钥只有服务器才知道，不能泄露给用户。然后，使用 Header 里面指定的签名算法（默认是 HMAC SHA256），按照下面的公式产生签名。
+
+
+HMACSHA256(
+  base64UrlEncode(header) + "." +
+  base64UrlEncode(payload),
+  secret)
+算出签名以后，把 Header、Payload、Signature 三个部分拼成一个字符串，每个部分之间用"点"（.）分隔，就可以返回给用户。

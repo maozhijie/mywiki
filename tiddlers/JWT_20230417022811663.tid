@@ -1,0 +1,26 @@
+created: 20230417022811665
+modified: 20230417022812660
+parent: JWT/20230414022522729
+stream-type: default
+title: JWT/20230417022811663
+tmap.id: 1e764e6b-f1f1-4854-b895-50c305887251
+type: text/vnd.tiddlywiki
+
+Payload 部分也是一个 JSON 对象，用来存放实际需要传递的数据。JWT 规定了7个官方字段，供选用。
+
+iss (issuer)：签发人
+exp (expiration time)：过期时间
+sub (subject)：主题
+aud (audience)：受众
+nbf (Not Before)：生效时间
+iat (Issued At)：签发时间
+jti (JWT ID)：编号
+除了官方字段，你还可以在这个部分定义私有字段，下面就是一个例子。
+
+
+{
+  "sub": "1234567890",
+  "name": "John Doe",
+  "admin": true
+}
+注意，JWT 默认是不加密的，任何人都可以读到，所以不要把秘密信息放在这个部分。
