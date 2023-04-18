@@ -1,10 +1,17 @@
 caption: {{||Excerpt}}
 created: 20230417093507723
-due: 20230418094147823
+difficulty: 5
+due: 20230419071216147
+grade: -1
+history: []
 interval: 1
-modified: 20230417160145201
+lapses: 0
+modified: 20230418071216148
 modifier: zhangyanj
-review: 20230417094147823
+reps: 1
+retrievability: 1
+review: 20230418071216147
+stability: 2
 tags: 学好数学并不难：代数+几何/num_2/学好数学并不难．代数 ? .
 title: 学好数学并不难：代数+几何/num_3/自序
 tmap.id: 6499f726-9c79-4f22-ac59-1c187a32d727
