@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 5692
+count-images: 942
+cover-image: $:/plugins/twpub/f6dab4f1b1df5707/images/cover.jpeg
+description: 烧掉数学书：重新发明数学
+epub-creator: 杰森·威尔克斯
+epub-title: 烧掉数学书：重新发明数学
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/f6dab4f1b1df5707
+type: application/json
+version: v0.0.1

@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 1130
+count-images: 227
+cover-image: $:/plugins/twpub/5a8a3ca926d4f386/images/cover.jpeg
+description: 观看之道
+epub-creator: 约翰·伯格
+epub-title: 观看之道
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/5a8a3ca926d4f386
+type: application/json
+version: v0.0.1
