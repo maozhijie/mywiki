@@ -1,7 +1,10 @@
 caption: {{||Excerpt}}
 created: 20230418064912361
-modified: 20230418064912361
-tags: 简明逻辑学
+due: 20230419075355616
+interval: 1
+modified: 20230418075355616
+review: 20230418075355616
+tags: 简明逻辑学 ? .
 title: 简明逻辑学/num_2/序言
 twpub: $:/plugins/twpub/e583933bd51b1d8a
 twpub-after: $:/plugins/twpub/e583933bd51b1d8a/text/000000058
