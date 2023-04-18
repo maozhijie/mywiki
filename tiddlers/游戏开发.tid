@@ -1,3 +1,4 @@
+caption: {{game-programmer-zh-cn.png}}
 created: 20230414093612323
 creator: zhangyanj
 difficulty: 5.1000000000000005
@@ -6,7 +7,7 @@ grade: 1
 history: [{"due":"20230417121411759","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415121411759"}]
 interval: 2
 lapses: 0
-modified: 20230417022603434
+modified: 20230418021908715
 modifier: zhangyanj
 reps: 2
 retrievability: 0.9
