@@ -5,6 +5,7 @@
         "modified": "20230419081554764",
         "title": "学好数学并不难：代数+几何/num_27/◎ 寻找隐含的数字：鸡兔同笼和浪费水的水池子/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "当我们发现应用题中给的条件不足的时候，就应该尽量从生活的常识里面去引用一些数字；如果常识也不能带给我们更多信息，那么，我们就可以尝试引入数字1来表示总量．",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "        \n                        最后，我们要总结一下这类应用题了：",
         "annotate-suffix": "对于这类题目而言，只要找到了隐含的数字，解题就不再困难了．\n                    ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "ab62e7b9-9d16-4e97-ba7b-5e59fd053e48"
     }
 ]

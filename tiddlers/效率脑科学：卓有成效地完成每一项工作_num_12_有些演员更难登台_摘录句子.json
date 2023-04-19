@@ -5,6 +5,7 @@
         "modified": "20230419062329834",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_12/有些演员更难登台/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "人们能够很轻易地回想起刚刚发生的事情，因为这些回路很“新鲜”，就像找到坐在前排的观众那样，大脑很容易访问它们。让我们来做个实验验证一下。试着在脑中回想你上一餐吃了什么，这通常不费吹灰之力。把近期事件带上舞台是一种相对快捷、轻松的脑力活动，就像把前排观众带到舞台上那样。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "                   这个关于大脑的见解非常有用，而且意义深远，因此请容我慢慢道来。",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "c00d92c9-25df-48a0-aab9-1902d7c75b8e"
     }
 ]

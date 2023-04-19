@@ -5,6 +5,7 @@
         "modified": "20230419081759183",
         "title": "学好数学并不难：代数+几何/num_29/◎ 怎样洗衣服最干净？用算式计算出结果/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "首先要判断一下它是不是数学问题．数学问题跟非数学问题有什么区别呢，如果不是数学问题的话，那它的答案就只能是定性的，只能大概地告诉我们干净不干净；但如果是数学问题，那答案就是定量的，它能够准确地告诉我们干净了多少．",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "                 \n                        要解决这个问题，",
         "annotate-suffix": "那么，这个问题应该怎么样去考虑呢？要知道这个问题里面可是一个数字都没有，我们怎么知道衣服干净了多少呢",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "9baa73e6-27d8-4aa4-919e-6513536d5e63"
     }
 ]

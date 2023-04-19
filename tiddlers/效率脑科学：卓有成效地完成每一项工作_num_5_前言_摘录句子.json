@@ -5,6 +5,7 @@
         "modified": "20230419060224767",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_5/前言/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "通过让你了解关于大脑的最新的重要研究成果，本书将帮助你改善工作表现。通过了解大脑的运作过程，你能够更加专注、更富有成效地工作。这是因为只有理解大脑，才能改变大脑（你也会在本书中了解到这句话背后的原理）。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "f97730cf-2a63-4dd2-8192-b55bb56f06b2"
     }
 ]

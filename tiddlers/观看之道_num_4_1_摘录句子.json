@@ -5,6 +5,7 @@
         "modified": "20230419080619973",
         "title": "观看之道/num_4/1/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "《梦境之钥》René Magritte, 1898—1967，私人收藏",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "ac6bf6be-3100-4382-9ba5-2dfe661f048a"
     }
 ]

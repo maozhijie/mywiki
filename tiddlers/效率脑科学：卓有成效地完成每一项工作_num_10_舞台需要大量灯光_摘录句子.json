@@ -5,6 +5,7 @@
         "modified": "20230419061407277",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_10/舞台需要大量灯光/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "与自动的大脑功能相比，比如保持心跳和呼吸，有意识的心智活动消耗新陈代谢燃料的速度要快得多。大脑舞台需要大量的能量才能运作，就好像灯光离舞台很远，所以你需要打开很多盏灯，还要把灯全都调到最亮，才能看到舞台上的演员。更糟糕的是，用于照亮舞台的灯光电力是有限的，会越用越少，就像电池需要经常充电。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "f5d21c27-a482-4ec5-a3c9-adcc54ccf0fa"
     }
 ]

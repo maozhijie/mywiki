@@ -5,6 +5,7 @@
         "modified": "20230419090440582",
         "title": "烧掉数学书：重新发明数学/num_9/1.1.2 “函数”是很可笑的名词/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "我们需要多少缩写才能完整描述我们的机器呢？我们需要给出以下内容的名称：（1）机器本身，（2）我们放进去的东西，以及（3）我们拿出来的东西。此外我们还要做一件事情：（4）我们需要描述机器如何工作。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "4e998c53-417b-458d-91c3-e865a1bbc8fb"
     }
 ]

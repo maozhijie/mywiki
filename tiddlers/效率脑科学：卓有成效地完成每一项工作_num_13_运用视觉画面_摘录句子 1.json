@@ -5,6 +5,7 @@
         "modified": "20230419062737014",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_13/运用视觉画面/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "为了减少处理信息所需要的能量，你可以利用视觉画面，也就是让脑海中浮现画面。例如，你现在正在通过大脑舞台的比喻来学习一个复杂的科学概念，即前额皮质的功能。将概念想象成视觉画面会调用位于大脑后枕叶的视皮质。这个区域可以通过真实的画面、隐喻或故事等任何能在头脑中产生图像的事物来激活。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "她头脑清醒，体内可调用的葡萄糖也很充沛，那么她还可以做些什么来最大限度地提高进行优先级排序的能力呢？",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "ec668c17-3b40-498d-9207-a8b687d14274"
     }
 ]

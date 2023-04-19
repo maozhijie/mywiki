@@ -5,6 +5,7 @@
         "modified": "20230419092101304",
         "title": "烧掉数学书：重新发明数学/num_13/1.2 如何发明数学概念/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "发明数学概念的过程就是尝试将模糊的定性思维变成精确的定量概念",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "                    当我们从零开始发明数学，总是从直觉性的、日常的人类思维开始。",
         "annotate-suffix": "。没有人能真正看到5维、17维或无穷维空间的事物，那么数学家是怎么定义“曲率”之类的事物，从而可以谈",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "b8e6ae02-ba4d-48b3-9a4f-deb472628e51"
     }
 ]

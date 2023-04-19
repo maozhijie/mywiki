@@ -5,6 +5,7 @@
         "modified": "20230419064420154",
         "title": "烧掉数学书：重新发明数学/num_3/前言/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "好小说的任务就是让不安的人得到安慰，让安逸的人感到不安。\n                    \n                \n                    \n                        ——戴维·福斯特·华莱士与劳瑞·麦卡弗里的谈话",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "827b0f8e-991f-4b6e-bba6-2aa763d32505"
     }
 ]

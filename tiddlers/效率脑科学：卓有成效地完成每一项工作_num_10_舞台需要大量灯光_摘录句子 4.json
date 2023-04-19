@@ -5,6 +5,7 @@
         "modified": "20230419062210191",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_10/舞台需要大量灯光/摘录句子 4",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "记住这个新观点：每一次使用舞台资源时，都要把它分配给重要的事情。舞台资源是有限的，所以不能浪费。不管怎么努力，你都不可能像卡车司机开车那样，持续一整天坐在那里做出绝佳决策。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "23839a0d-bc3b-4311-bec4-3fcf11ac3579"
     }
 ]

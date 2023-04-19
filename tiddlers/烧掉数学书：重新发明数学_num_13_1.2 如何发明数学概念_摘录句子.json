@@ -5,6 +5,7 @@
         "modified": "20230419092028122",
         "title": "烧掉数学书：重新发明数学/num_13/1.2 如何发明数学概念/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "我不能创造的东西，我就没有理解。\n                    \n                \n                    \n                        ——理查德·费曼（Richard Feynman），写在他去世时的黑板上",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "c513e23f-8647-45e5-b380-4a92e24c6d63"
     }
 ]
