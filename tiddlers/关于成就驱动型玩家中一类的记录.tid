@@ -1,17 +1,17 @@
 created: 20230328022849645
 creator: zhangyanj
-difficulty: 5.148683298050514
-due: 20230419122601173
-grade: 1
-history: [{"due":"20230415023036292","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414023036292"}]
-interval: 1
+difficulty: 4.242297437222169
+due: 20230430015849377
+grade: 2
+history: [{"due":"20230415023036292","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414023036292"},{"due":"20230419122601173","interval":1,"difficulty":5.148683298050514,"stability":3.7467775080817907,"retrievability":0.9486832980505138,"grade":1,"lapses":0,"reps":2,"review":"20230415122601173"}]
+interval: 4
 lapses: 0
-modified: 20230415122601173
+modified: 20230419015849377
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9486832980505138
-review: 20230415122601173
-stability: 3.7467775080817907
+reps: 3
+retrievability: 0.8936141391716548
+review: 20230419015849377
+stability: 10.792846443408292
 stream-list: 关于成就驱动型玩家中一类的记录/20230411062522095 关于成就驱动型玩家中一类的记录/20230414022950834
 stream-type: default
 tags: 想法 电子游戏 成就系统 . ?

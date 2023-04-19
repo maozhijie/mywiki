@@ -1,16 +1,16 @@
 caption: 
 created: 20230411062013477
-difficulty: 5.1000000000000005
-due: 20230419025538688
+difficulty: 5.191646427147878
+due: 20230503020310896
 grade: 1
-history: [{"due":"20230413062142981","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411062142981"}]
-interval: 2
+history: [{"due":"20230413062142981","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411062142981"},{"due":"20230419025538688","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230413025538688"}]
+interval: 6
 lapses: 0
-modified: 20230413025538688
-reps: 2
-retrievability: 0.9
-review: 20230413025538688
-stability: 5.512139752431654
+modified: 20230419020310896
+reps: 3
+retrievability: 0.891646427147878
+review: 20230419020310895
+stability: 14.005473642002045
 tags: 材料 chatgpt ?
 title: chatgpt中文指南
 tmap.id: 5a3ad97e-ec61-45d4-9519-273dba14aef0
