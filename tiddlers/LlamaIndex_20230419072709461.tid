@@ -1,0 +1,10 @@
+created: 20230419072709464
+modified: 20230419072711520
+parent: LlamaIndex
+stream-list: 
+stream-type: default
+title: LlamaIndex/20230419072709461
+tmap.id: c37344b7-3800-4a8b-9326-a26c1c8b3316
+type: text/vnd.tiddlywiki
+
+LlamaIndex (GPT Index)是一个项目，它提供了一个中央接口，用于将 LLM 与外部数据连接起来。

@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 1117
+count-images: 72
+cover-image: $:/plugins/twpub/e583933bd51b1d8a/images/cover.jpeg
+description: 简明逻辑学
+epub-creator: 格雷厄姆•普里斯特 (Priest G.)
+epub-title: 简明逻辑学
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/e583933bd51b1d8a
+type: application/json
+version: v0.0.1

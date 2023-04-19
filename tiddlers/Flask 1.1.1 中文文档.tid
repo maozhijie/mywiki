@@ -1,16 +1,16 @@
 caption: 
 created: 20230407102623003
-difficulty: 5.1000000000000005
-due: 20230418021958616
-grade: 1
-history: [{"due":"20230412110504037","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410110504037"}]
-interval: 2
+difficulty: 4.191646427147878
+due: 20230503064436907
+grade: 2
+history: [{"due":"20230412110504037","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410110504037"},{"due":"20230418021958616","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230412021958616"}]
+interval: 6
 lapses: 0
-modified: 20230412082900801
-reps: 2
-retrievability: 0.9
-review: 20230412021958616
-stability: 5.512139752431654
+modified: 20230418064436907
+reps: 3
+retrievability: 0.891646427147878
+review: 20230418064436907
+stability: 15.377717495040983
 stream-list: [[Flask 1.1.1 中文文档/20230412021934648]] [[Flask 1.1.1 中文文档/20230412082900798]]
 stream-type: default
 tags: 材料 文档 Flask框架 ?

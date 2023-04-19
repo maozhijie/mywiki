@@ -1,15 +1,15 @@
 created: 20230411095939067
-difficulty: 5.1000000000000005
-due: 20230419024426111
-grade: 1
-history: [{"due":"20230413101233936","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101233936"}]
-interval: 2
+difficulty: 4.191646427147878
+due: 20230504021005987
+grade: 2
+history: [{"due":"20230413101233936","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101233936"},{"due":"20230419024426111","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230413024426111"}]
+interval: 6
 lapses: 0
-modified: 20230413024426111
-reps: 2
-retrievability: 0.9
-review: 20230413024426111
-stability: 5.512139752431654
+modified: 20230419021005987
+reps: 3
+retrievability: 0.891646427147878
+review: 20230419021005987
+stability: 15.377717495040983
 stream-list: 精力管理有什么好的想法吗?/20230413024411473
 stream-type: default
 tags: 想法 ?

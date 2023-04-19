@@ -1,0 +1,19 @@
+caption: 
+created: 20230411100049463
+difficulty: 5.191646427147878
+due: 20230503020801554
+grade: 1
+history: [{"due":"20230413101236142","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101236142"},{"due":"20230419024359041","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230413024359040"}]
+interval: 6
+lapses: 0
+modified: 20230419020801554
+reps: 3
+retrievability: 0.891646427147878
+review: 20230419020801553
+stability: 14.005473642002045
+stream-list: 对条目的间隔重复/20230411100141618 对条目的间隔重复/20230411100158222 对条目的间隔重复/20230411100212570 对条目的间隔重复/20230411100228346 对条目的间隔重复/20230411100242853 对条目的间隔重复/20230411100258507 对条目的间隔重复/20230411100331713 对条目的间隔重复/20230419020735608
+stream-type: default
+tags: 想法 对自我编程 ?
+title: 对条目的间隔重复
+tmap.id: 8062af9a-b0cb-4e6a-a753-f3586160edcc
+type: text/vnd.tiddlywiki

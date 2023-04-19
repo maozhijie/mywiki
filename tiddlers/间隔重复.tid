@@ -1,15 +1,15 @@
 created: 20230411094326710
-difficulty: 4.1000000000000005
-due: 20230419023629114
-grade: 2
-history: [{"due":"20230413101217829","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101217829"}]
-interval: 2
+difficulty: 4.201431216877242
+due: 20230505015957401
+grade: 1
+history: [{"due":"20230413101217829","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101217829"},{"due":"20230419023629114","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20230413023629113"}]
+interval: 6
 lapses: 0
-modified: 20230413023629114
-reps: 2
-retrievability: 0.9
-review: 20230413023629113
-stability: 6.091873624375545
+modified: 20230419015957401
+reps: 3
+retrievability: 0.9014312168772408
+review: 20230419015957401
+stability: 15.75000284058142
 tags: 塑造自我 ?
 title: 间隔重复
 tmap.id: 37b7a258-7504-4c13-b910-cf9554553397
