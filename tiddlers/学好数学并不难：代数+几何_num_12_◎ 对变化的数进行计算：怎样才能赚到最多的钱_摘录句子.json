@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学好数学并不难：代数+几何/num_12/◎ 对变化的数进行计算：怎样才能赚到最多的钱/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "有时候，我们会在不断变化的数量中，找到不变的数字或者不变的规律；有时候，我们会在变化的量中找到最有利的量．",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "都是不确定的，只能知道这些数量之间的相互关系，却不知道这些数量具体是多少．世界上变化中总蕴含着不变，",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "11157e2d-500f-4639-a618-885ca2e3d9ad"
     }
 ]
