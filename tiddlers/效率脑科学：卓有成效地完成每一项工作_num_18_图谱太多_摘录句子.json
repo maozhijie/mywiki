@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_18/图谱太多/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "你不能一次把太多复杂图谱放到舞台上，因为大脑根本无法处理。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "，但前提是你不分心做其他事，专心用你的母语不断重复它们，努力记住它们，直到这串数字嵌入你的长期记忆。",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "e119846b-c0a2-4518-81cd-6ffd3bff6217"
     }
 ]

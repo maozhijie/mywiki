@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "简明逻辑学/num_3/第一章 效度：根据什么样的原因而得出什么样的结论？/摘录句子 3",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "本章要点\n                    \n                \n                    \n                        ·一个有效推理是结论由前提推导而来的推理。\n                    \n                \n                    \n                        ·一个具有演绎效度的推理是这样的一种推理：推理过程中不存在所有前提都正确但结论却错误的情形。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "d9926f38-b505-4919-9532-454f16663456"
     }
 ]
