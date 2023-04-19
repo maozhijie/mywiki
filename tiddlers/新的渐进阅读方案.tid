@@ -5,7 +5,7 @@ grade: 1
 history: [{"due":"20230413101225875","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230411101225875"},{"due":"20230419024127932","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230413024127932"}]
 interval: 6
 lapses: 0
-modified: 20230419020300718
+modified: 20230419063904158
 reps: 3
 retrievability: 0.891646427147878
 review: 20230419020300717
