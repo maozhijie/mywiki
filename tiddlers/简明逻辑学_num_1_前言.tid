@@ -1,9 +1,16 @@
 caption: {{||Excerpt}}
 created: 20230418064912356
-due: 20230419075100360
+difficulty: 5
+due: 20230420022732052
+grade: -1
+history: []
 interval: 1
-modified: 20230418075100361
-review: 20230418075100360
+lapses: 0
+modified: 20230419022732052
+reps: 1
+retrievability: 1
+review: 20230419022732052
+stability: 1.05
 tags: 简明逻辑学 ? .
 title: 简明逻辑学/num_1/前言
 tmap.id: c3ddfae7-40fa-4424-b66b-0ef208407449
