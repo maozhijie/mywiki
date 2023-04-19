@@ -1,8 +1,18 @@
 created: 20230419072630907
-modified: 20230419072712403
+difficulty: 5
+due: 20230420083756588
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230419083756588
+reps: 1
+retrievability: 1
+review: 20230419083756588
+stability: 1.05
 stream-list: LlamaIndex/20230419072709461 LlamaIndex/20230419072712399
 stream-type: default
-tags: ? python 库
+tags: python 库 ?
 title: LlamaIndex
 tmap.id: 4ad5872e-d634-4f50-95c9-093b348043ea
 type: text/vnd.tiddlywiki

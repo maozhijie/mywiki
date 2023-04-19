@@ -1,5 +1,15 @@
 created: 20230419072714918
-modified: 20230419072749511
+difficulty: 5
+due: 20230420083801199
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230419083801199
+reps: 1
+retrievability: 1
+review: 20230419083801199
+stability: 1.05
 tags: LlamaIndex ?
 title: LlamaIndex官方文档
 tmap.id: 38ee376e-a5b3-4015-854d-9706e6482c8e
