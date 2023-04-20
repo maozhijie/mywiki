@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 24047
+count-images: 170
+cover-image: $:/plugins/twpub/d9d6f51d59f7bac7/images/cover.jpeg
+description: 学习和认知升级经典书6册
+epub-creator: 亚当·罗宾逊
+epub-title: 学习和认知升级经典书6册
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/d9d6f51d59f7bac7
+type: application/json
+version: v0.0.1

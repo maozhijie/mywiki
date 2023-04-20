@@ -1,15 +1,15 @@
 created: 20230419020424841
-difficulty: 5
-due: 20230420020952037
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1045267970246115
+due: 20230423060923639
+grade: 1
+history: [{"due":"20230420020952037","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419020952037"}]
+interval: 1
 lapses: 0
-modified: 20230419020952037
-reps: 1
-retrievability: 1
-review: 20230419020952037
-stability: 1.05
+modified: 20230420060923639
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230420060923639
+stability: 3.0466963066680397
 stream-list: 电子游戏对我的意义是什么?/20230411093723645
 stream-type: default
 tags: 想法 意义 ?
