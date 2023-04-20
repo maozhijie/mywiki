@@ -16,6 +16,10 @@
         "annotate-suffix": "那么，这个问题应该怎么样去考虑呢？要知道这个问题里面可是一个数字都没有，我们怎么知道衣服干净了多少呢",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
+<<<<<<< HEAD
         "tmap.id": "9baa73e6-27d8-4aa4-919e-6513536d5e63"
+=======
+        "tmap.id": "d6059e2e-78f4-42c7-bed1-15bb27770d4f"
+>>>>>>> bbc962b (Updated with Git-Sync)
     }
 ]

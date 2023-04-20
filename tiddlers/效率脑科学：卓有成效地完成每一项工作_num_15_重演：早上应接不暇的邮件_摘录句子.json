@@ -16,6 +16,10 @@
         "annotate-suffix": "。随后，她打开收音机，在音乐声中放松了下来。\n                    \n      ",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
+<<<<<<< HEAD
         "tmap.id": "026b799c-bddd-42e3-8d7e-1d0aa2c683d3"
+=======
+        "tmap.id": "7ee37aca-4be0-47b6-a926-67f879c314e1"
+>>>>>>> bbc962b (Updated with Git-Sync)
     }
 ]

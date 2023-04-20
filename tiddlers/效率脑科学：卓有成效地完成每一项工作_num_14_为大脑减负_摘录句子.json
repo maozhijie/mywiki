@@ -16,6 +16,10 @@
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
+<<<<<<< HEAD
         "tmap.id": "fa98e505-d4bc-46ac-9182-7bbe561dd695"
+=======
+        "tmap.id": "876c0d32-ce3f-45f6-8ec4-9818404d91e1"
+>>>>>>> bbc962b (Updated with Git-Sync)
     }
 ]

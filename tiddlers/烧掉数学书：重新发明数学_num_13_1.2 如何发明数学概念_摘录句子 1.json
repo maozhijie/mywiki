@@ -16,6 +16,10 @@
         "annotate-suffix": "。没有人能真正看到5维、17维或无穷维空间的事物，那么数学家是怎么定义“曲率”之类的事物，从而可以谈",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
+<<<<<<< HEAD
         "tmap.id": "b8e6ae02-ba4d-48b3-9a4f-deb472628e51"
+=======
+        "tmap.id": "d375460d-f2f9-477b-8510-c8a8976cd375"
+>>>>>>> bbc962b (Updated with Git-Sync)
     }
 ]

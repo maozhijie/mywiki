@@ -16,6 +16,10 @@
         "annotate-suffix": "？”因此功劳归他。\n                    \n                \n  ",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
+<<<<<<< HEAD
         "tmap.id": "fb56ff35-fb72-4b8f-a326-7da628e8ad08"
+=======
+        "tmap.id": "7b946487-3656-426a-ae37-f8ae9249898b"
+>>>>>>> bbc962b (Updated with Git-Sync)
     }
 ]

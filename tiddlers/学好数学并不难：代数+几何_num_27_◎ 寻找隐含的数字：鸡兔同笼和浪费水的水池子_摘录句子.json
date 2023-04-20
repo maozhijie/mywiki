@@ -16,6 +16,10 @@
         "annotate-suffix": "对于这类题目而言，只要找到了隐含的数字，解题就不再困难了．\n                    ",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
+<<<<<<< HEAD
         "tmap.id": "ab62e7b9-9d16-4e97-ba7b-5e59fd053e48"
+=======
+        "tmap.id": "20c0eb33-82b1-4ff2-b72a-46663dcbdff8"
+>>>>>>> bbc962b (Updated with Git-Sync)
     }
 ]
