@@ -1,15 +1,15 @@
 created: 20230419072630907
-difficulty: 5
-due: 20230420083756588
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1045267970246115
+due: 20230423030445904
+grade: 1
+history: [{"due":"20230420083756588","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419083756588"}]
+interval: 1
 lapses: 0
-modified: 20230419083756588
-reps: 1
-retrievability: 1
-review: 20230419083756588
-stability: 1.05
+modified: 20230420030445904
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230420030445904
+stability: 3.0466963066680397
 stream-list: LlamaIndex/20230419072709461 LlamaIndex/20230419072712399
 stream-type: default
 tags: python 库 ?

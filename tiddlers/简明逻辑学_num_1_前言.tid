@@ -6,12 +6,12 @@ grade: -1
 history: []
 interval: 1
 lapses: 0
-modified: 20230419022732052
+modified: 20230420030425361
 reps: 1
 retrievability: 1
 review: 20230419022732052
 stability: 1.05
-tags: 简明逻辑学 ? .
+tags: 简明逻辑学 ? . !
 title: 简明逻辑学/num_1/前言
 tmap.id: c3ddfae7-40fa-4424-b66b-0ef208407449
 twpub: $:/plugins/twpub/e583933bd51b1d8a
