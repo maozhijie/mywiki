@@ -2,20 +2,27 @@
     {
         "created": "20230418065628151",
         "tags": "[[学好数学并不难：代数+几何/num_20/◎ 数字都是没有算完的算式：一切都在运动变化之中]] ? .",
-        "modified": "20230418065628151",
+        "modified": "20230420064834853",
         "title": "学好数学并不难：代数+几何/num_20/◎ 数字都是没有算完的算式：一切都在运动变化之中/摘录句子",
         "type": "text/vnd.tiddlywiki",
         "text": "",
         "caption": "数字都是没有算完的算式：一切都在运动变化之中",
         "priority": "0",
-        "interval": "2",
-        "due": "20230420065628151",
-        "review": "20230418065628151",
+        "interval": "1",
+        "due": "20230421064834853",
+        "review": "20230420064834853",
         "annotate-text": "数字都是没有算完的算式：一切都在运动变化之中",
         "annotate-prefix": "\n                    \n                        \n ◎ ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
-        "tmap.id": "ad4417f2-46ad-4c31-83ca-f2a61ccf1ed6"
+        "tmap.id": "ad4417f2-46ad-4c31-83ca-f2a61ccf1ed6",
+        "difficulty": "5",
+        "stability": "1.05",
+        "retrievability": "1",
+        "lapses": "0",
+        "reps": "1",
+        "grade": "-1",
+        "history": "[]"
     }
 ]
