@@ -1,9 +1,16 @@
 caption: {{||Excerpt}}
 created: 20230418063525325
-due: 20230420095310276
+difficulty: 5
+due: 20230421062948846
+grade: -1
+history: []
 interval: 1
-modified: 20230419095310276
-review: 20230419095310276
+lapses: 0
+modified: 20230420062948846
+reps: 1
+retrievability: 1
+review: 20230420062948846
+stability: 1.05
 tags: [[烧掉数学书：重新发明数学/num_13/1.2 如何发明数学概念]] ? .
 title: 烧掉数学书：重新发明数学/num_15/1.2.2 如何把所有的事情做错：愚蠢的记忆说教
 tmap.id: 35abc26b-bcec-4d0f-adba-a8f37b309a71
