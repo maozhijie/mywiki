@@ -1,17 +1,17 @@
 caption: {{||Excerpt}}
 created: 20230418063525313
-difficulty: 5
-due: 20230421062852011
-grade: -1
-history: []
+difficulty: 5.1045267970246115
+due: 20230424032044782
+grade: 1
+history: [{"due":"20230421062852011","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420062852011"}]
 interval: 1
 lapses: 0
-modified: 20230420062852011
-reps: 1
-retrievability: 1
-review: 20230420062852011
-stability: 1.05
-tags: [[烧掉数学书：重新发明数学/num_13/1.2 如何发明数学概念]] ? .
+modified: 20230421032044782
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230421032044782
+stability: 3.0466963066680397
+tags: [[烧掉数学书：重新发明数学/num_13/1.2 如何发明数学概念]] . ?
 title: 烧掉数学书：重新发明数学/num_14/1.2.1 发掘我们的思维：发明面积
 tmap.id: 0573a826-598c-44a6-a073-a8c29bcf5e7a
 twpub: $:/plugins/twpub/f6dab4f1b1df5707

@@ -1,0 +1,10 @@
+created: 20230421032002224
+modified: 20230421032006103
+parent: 简明逻辑学/num_4/第二章 真值函数及其他/摘录句子
+stream-list: 
+stream-type: default
+title: 简明逻辑学/num_4/第二章 真值函数及其他/摘录句子/20230421032002221
+tmap.id: 5d02cdc5-4a4f-4f9a-bc80-d24d3cf93f95
+type: text/vnd.tiddlywiki
+
+·当命题a与b中至少有一个命题的真值为T时，析取命题a V b的真值就为T。 

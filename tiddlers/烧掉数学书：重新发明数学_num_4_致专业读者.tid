@@ -1,19 +1,19 @@
 caption: {{||Excerpt}}
 created: 20230418063525225
-difficulty: 5
-due: 20230421063820373
-grade: -1
-history: []
+difficulty: 4.1045267970246115
+due: 20230424032555846
+grade: 2
+history: [{"due":"20230421063820373","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420063820373"}]
 interval: 1
 lapses: 0
-modified: 20230420063820373
-reps: 1
-retrievability: 1
-review: 20230420063820373
-stability: 1.05
+modified: 20230421032555846
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230421032555846
+stability: 3.3759302635391815
 stream-list: 
 stream-type: default
-tags: 烧掉数学书：重新发明数学 ? .
+tags: 烧掉数学书：重新发明数学 . ?
 title: 烧掉数学书：重新发明数学/num_4/致专业读者
 tmap.id: 780ca68c-1f74-4846-8930-03d00d9cfac2
 twpub: $:/plugins/twpub/f6dab4f1b1df5707

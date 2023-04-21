@@ -1,16 +1,16 @@
 caption: 
 created: 20230418022122753
-difficulty: 5
-due: 20230421015841951
-grade: -1
-history: []
-interval: 0
+difficulty: 4.1000000000000005
+due: 20230427032617446
+grade: 2
+history: [{"due":"20230421015841951","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419015841951"}]
+interval: 2
 lapses: 0
-modified: 20230419015841952
-reps: 1
-retrievability: 1
-review: 20230419015841951
-stability: 2
+modified: 20230421032617446
+reps: 2
+retrievability: 0.9
+review: 20230421032617446
+stability: 6.091873624375545
 stream-list: 太微导入twpub电子书/20230419015757360
 stream-type: default
 tags: tiddlyWiki twpub ?
