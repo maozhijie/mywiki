@@ -1,17 +1,17 @@
 created: 20230412023245643
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230421123457733
+difficulty: 5.191646427147878
+due: 20230505062329672
 grade: 1
-history: [{"due":"20230415023118462","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230413023118462"}]
-interval: 2
+history: [{"due":"20230415023118462","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230413023118462"},{"due":"20230421123457733","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230415123457733"}]
+interval: 6
 lapses: 0
-modified: 20230415123457733
+modified: 20230421062329672
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230415123457733
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.891646427147878
+review: 20230421062329672
+stability: 14.005473642002045
 stream-list: 知乎专栏/SuperMemo—渐进学习最前沿！/20230413021700767 知乎专栏/SuperMemo—渐进学习最前沿！/20230415123337757
 stream-type: default
 tags: 知乎专栏 材料 ?

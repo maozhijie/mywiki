@@ -1,28 +1,28 @@
 [
     {
         "created": "20230418070032789",
-        "tags": "[[学好数学并不难：代数+几何/num_20/◎ 数字都是没有算完的算式：一切都在运动变化之中]] ? .",
-        "modified": "20230420065127653",
+        "tags": "[[学好数学并不难：代数+几何/num_20/◎ 数字都是没有算完的算式：一切都在运动变化之中]] . ?",
+        "modified": "20230421061723366",
         "title": "学好数学并不难：代数+几何/num_20/◎ 数字都是没有算完的算式：一切都在运动变化之中/摘录句子 4",
         "type": "text/vnd.tiddlywiki",
         "text": "",
         "caption": "分数并非是一种数字，它只不过是一个简化了的除式而已",
         "priority": "0",
         "interval": "1",
-        "due": "20230421065127653",
-        "review": "20230420065127653",
+        "due": "20230424061723366",
+        "review": "20230421061723366",
         "annotate-text": "分数并非是一种数字，它只不过是一个简化了的除式而已",
         "annotate-prefix": "，比如把3÷7的结果表示为\n ．其中的含义也就是把1平均分成7份以后，取其中的3份．于是我们就知道，",
         "annotate-suffix": "．\n                    \n                \n          ",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
         "tmap.id": "dfac7ca3-54b8-44b2-9e7c-51c1eece5fe2",
-        "difficulty": "5",
-        "stability": "1.05",
-        "retrievability": "1",
+        "difficulty": "4.1045267970246115",
+        "stability": "3.3759302635391815",
+        "retrievability": "0.9045267970246111",
         "lapses": "0",
-        "reps": "1",
-        "grade": "-1",
-        "history": "[]"
+        "reps": "2",
+        "grade": "2",
+        "history": "[{\"due\":\"20230421065127653\",\"interval\":1,\"difficulty\":5,\"stability\":1.05,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20230420065127653\"}]"
     }
 ]
