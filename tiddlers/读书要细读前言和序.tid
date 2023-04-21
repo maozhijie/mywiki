@@ -1,18 +1,18 @@
 caption: 
 created: 20230420061551404
 creator: zhangyanj
-difficulty: 5
-due: 20230421151224880
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1045267970246115
+due: 20230424030516464
+grade: 1
+history: [{"due":"20230421151224880","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420151224880"}]
+interval: 1
 lapses: 0
-modified: 20230420151224880
+modified: 20230421030516464
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230420151224880
-stability: 1.05
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230421030516464
+stability: 3.0466963066680397
 tags: 阅读技巧 ?
 title: 读书要细读前言和序
 tmap.id: c0a474a5-3fc0-436b-8cea-3a2efb2ca59c

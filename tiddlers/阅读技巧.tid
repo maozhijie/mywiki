@@ -1,17 +1,17 @@
 created: 20230420061533044
 creator: zhangyanj
-difficulty: 5
-due: 20230421151222505
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1045267970246115
+due: 20230424030400480
+grade: 1
+history: [{"due":"20230421151222505","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420151222505"}]
+interval: 1
 lapses: 0
-modified: 20230420154325882
+modified: 20230421030400480
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230420151222505
-stability: 1.05
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230421030400480
+stability: 3.0466963066680397
 stream-list: 阅读技巧/20230420154325877
 stream-type: default
 tags: 元知识 ?

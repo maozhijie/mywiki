@@ -1,18 +1,18 @@
 created: 20230412024038777
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230421122859853
-grade: 1
-history: [{"due":"20230415023321319","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230413023321319"}]
-interval: 2
+difficulty: 4.191646427147878
+due: 20230506030408528
+grade: 2
+history: [{"due":"20230415023321319","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230413023321319"},{"due":"20230421122859853","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230415122859853"}]
+interval: 6
 lapses: 0
-modified: 20230415122859853
+modified: 20230421030408528
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230415122859853
-stability: 5.512139752431654
-stream-list: superMemo学习/20230415122832837
+reps: 3
+retrievability: 0.891646427147878
+review: 20230421030408528
+stability: 15.377717495040983
+stream-list: superMemo学习/20230415122832837 superMemo学习/20230421030404897
 stream-type: default
 tags: superMemo 智识工具研究 ?
 title: superMemo学习

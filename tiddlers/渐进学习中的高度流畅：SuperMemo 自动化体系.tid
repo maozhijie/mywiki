@@ -1,17 +1,17 @@
 created: 20230412104120021
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230421122815965
-grade: 1
-history: [{"due":"20230415023556608","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230413023556608"}]
-interval: 2
+difficulty: 4.191646427147878
+due: 20230506025116126
+grade: 2
+history: [{"due":"20230415023556608","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230413023556608"},{"due":"20230421122815965","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230415122815965"}]
+interval: 6
 lapses: 0
-modified: 20230415122815965
+modified: 20230421025116126
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230415122815965
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.891646427147878
+review: 20230421025116126
+stability: 15.377717495040983
 stream-list: [[渐进学习中的高度流畅：SuperMemo 自动化体系/20230413023454586]] [[渐进学习中的高度流畅：SuperMemo 自动化体系/20230413023412297]] [[渐进学习中的高度流畅：SuperMemo 自动化体系/20230415122803637]]
 stream-type: default
 tags: superMemo 材料 ?
