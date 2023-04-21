@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_14/问题2：我已经知道些什么/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "总 结\n                    \n                \n                    \n                        \n\t\t\t\t\n                    \n                \n                    \n                        问题2要求你在阅读之前，简单地写下你所知道的关于对应主题的一切信息。你可能会敷衍应付这一步，但千万不要这么做！你必须写一些东西——哪怕你认为这是个愚蠢的想法。这一步可以帮助你了解自己，弄清楚你知道些什么，不知道些什么。而且，这还能够促使你从对教科书的依赖中独立出来。简而言之，热身促使你进行思考。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "92266412-c3f3-410c-a297-b4222db35478"
     }
 ]

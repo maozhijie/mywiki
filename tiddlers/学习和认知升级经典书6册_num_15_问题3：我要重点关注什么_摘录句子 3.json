@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_15/问题3：我要重点关注什么/摘录句子 3",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "对于个人而言，几个清晰的观点远远比很多个令人困惑的观点要好得多。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "3c04aca2-b53a-4e82-8d65-5e7611287db0"
     }
 ]

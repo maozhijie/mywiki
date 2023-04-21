@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_6/学习高手的学习秘诀是什么/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "你不可能教会一个人任何事情，你能做的只是帮助他自己学会这件事情。\n                    \n                \n                    \n                        \n\t\t\t\n                    \n                \n                    \n                        \n\t\t\t\n                    \n                \n                    \n                        \n\t\t\t\t\n                    \n                \n                    \n                        ",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "——伽利略\n                    \n                \n      ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "cb2b1e20-44b0-4e3f-8cd4-274461fa7519"
     }
 ]

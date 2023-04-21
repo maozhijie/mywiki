@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学好数学并不难：代数+几何/num_35/◎ 不等式的性质：方向的改变/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "我们也曾经提到，方程就相当于是一架天平．那这不等式呢？不等式也相当于一架天平．区别在于，等式的天平，是处于水平状态的；而不等式的天平，是处于倾斜状态的．为什么是倾斜的呢？因为它一头重一头轻．",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "                    \n                        在前文中，",
         "annotate-suffix": "不过，既然不等式是天平，那就好办了．我们就不妨在天平上来试一试它的性质．\n             ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "6bc2c269-fe05-407e-b117-ba72b3255200"
     }
 ]

@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_28/超负荷工作的后果/摘录句子 3",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "一旦你同时处理多个任务，并且其中有不止一个任务需要你的关注，你做事的准确性就会下降。那么，除了一次只做一件事（那些每天收到两百封邮件和大量信息的人大多会对此嗤之以鼻），还有其他选择吗？对于这种杂耍式困境，有三种可能的解决方案。第一种是将更多的事情嵌入脑海中，实现自动化处理，也就是让观众多做些工作；第二种是安排信息登上舞台的最佳顺序；第三种是混搭注意力。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "4c228d59-c4ec-4701-93da-54de1924a004"
     }
 ]

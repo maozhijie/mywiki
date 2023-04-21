@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_28/超负荷工作的后果/摘录句子 2",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "这可以解释当舞台过载时，为什么你会很容易忘记整体目标，因为大演员总是最先被挤下舞台。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "是那些最耗费能量的演员。更糟糕的是，那些演员一般都是概念性的事物，如抽象的目标或者其他更微妙的目的。",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "d9c4b14f-939c-4d46-8d2b-312430924601"
     }
 ]
