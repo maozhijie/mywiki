@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "观看之道/num_6/3/摘录句子 7",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "这幅画是佛罗伦萨大公（Grand Duke of Florence）送给法国国王的礼物。跪在软垫上亲吻那位女子的是丘比特，女人是维纳斯。可是她的身体摆成这种姿势同他们的亲吻是风马牛不相及的。她身体的姿势，是摆给赏画的男人看的。为的是激起他的性欲，而同她的性欲毫不相干。（在这幅画与欧洲传统中，不描画女性体毛的习惯，与上例有异曲同工之妙。毛发涉及性能力与激情。唯有减弱女人的性激情，才能使观赏者感到他独占这种激情。）画中的女性用以满足他人的欲望，而她们自己则不能有任何非分之想。\n                    \n                \n                    \n                        试比较以下两名女子的表情：\n                    \n                \n                    \n                        一位是安格尔（Ingres）一幅名画中的模特儿，另一位则是裸女杂志上的摄影模特儿。\n                    \n                \n                    \n                        两人的表情不是十分相似吗？这种表情是一个女子故作妩媚，向观察她的男人作出的反应——虽然她同他素不相识。她作为被观察者，正在奉献自身的女色。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "3f2a2e73-cae4-4d35-8f70-42a3311dbaf9"
     }
 ]

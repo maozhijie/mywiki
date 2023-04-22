@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_11/全新的学习方法：赛博学习法/摘录句子/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "问题2：我已经知道些什么 在你看完标题但还没有开始阅读正文的时候，作为热身，你应该花几分钟的时间快速写下关于该话题你所知道的所有事情。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "我的目的是什么 在阅读之前，你必须知道为什么要阅读，这样在你阅读的过程中，就会知道自己应该留心什么。",
         "annotate-suffix": " 问题3：我要重点关注什么 开始仔细阅读之前，你需要通过略读文章来知道文章的要点和梗概。 问题4：接",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "6ffdbb6c-c6bb-4446-931c-3391f28bab94"
     }
 ]

@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_11/全新的学习方法：赛博学习法/摘录句子/摘录句子 4",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "问题5：什么是“专业问题” 每一个科目都会有一套自己的问题，必须牢记这些问题。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "题4：接下来所强调的是什么 你可以尝试一边阅读，一边预测作者接下来要讲些什么内容，让阅读伴随思考。 ",
         "annotate-suffix": " 问题6：我能提出问题吗 当你在阅读的时候，你必须意识到你能从材料中提炼出什么问题。 问题7：哪些是",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "3da1468a-aa1a-4687-ade8-a20351c83878"
     }
 ]

@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "观看之道/num_6/3/摘录句子 3",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "镜子常作为女性好虚荣的象征。然而，这种说教尤其虚伪。\n                    \n                \n                    \n                        你画裸女，因为你爱看她。你在她手中放一面镜子，称之为虚荣，于是，你一方面从描绘她的裸体上得到满足，另一方面却在道德上谴责她。\n                    \n                \n                    \n                        镜子的真正作用是别的。镜子纵容女子成为其同谋，着意把自身当作景观展示。\n                    \n                \n                    \n                        “帕里斯的裁判”（The Judgement of Paris）是另一个主题，显示出男人看待裸体女子的深层想法。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "5db137a5-2711-4f6f-8494-68ae9374c9d0"
     }
 ]
