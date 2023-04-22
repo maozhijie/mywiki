@@ -5,6 +5,7 @@
         "modified": "20230421032234484",
         "title": "烧掉数学书：重新发明数学/num_20/1.2.7 用言语总结发明的过程/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "一旦我们发明了一些数学，用来作为创造过程的原材料的“日常概念”将把之前已经发明的更简单的数学概念也包括进来。例如，在将第2章发明的微积分的基本概念一般化为无穷维空间中的相关概念时，在书最后的第N章将对此进行讨论。随着我们对数学世界的探索越来越深入，日常概念与数学概念之间的界限也会变得越来越模糊。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": " \n                    \n                        [1]",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "b126e1c9-fe5a-4a5b-9ec5-3f06fab2c743"
     }
 ]

@@ -5,6 +5,7 @@
         "modified": "20230421025133871",
         "title": "烧掉数学书：重新发明数学/num_24/插曲1：变慢的时间/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "有许多事情你从未见过，而且你不知道你没见过，因为你没见过。你得先看见，才能知道自己没见过，然后你才看见了说：“嘿，我从没见过这个。”太晚了，你已经看见了！\n                    \n                \n                    \n                        ——乔治·卡林（George Carlin），《再做一次》（DoinIt Again）",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "346517d4-cc24-4830-a47f-2e06fca41cea"
     }
 ]
