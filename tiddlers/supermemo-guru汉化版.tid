@@ -1,17 +1,17 @@
 created: 20230326044504160
 creator: zhangyanj
-difficulty: 6.376266919617338
-due: 20230422123718829
-grade: 1
-history: [{"due":"20230331162047473","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330162047473"},{"due":"20230408131041100","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230402131041100"},{"due":"20230412092744668","interval":9,"difficulty":6.14195525232829,"stability":1.4816364413634358,"retrievability":0.8419552523282889,"grade":0,"lapses":1,"reps":1,"review":"20230411092744668"},{"due":"20230415023402097","interval":1,"difficulty":6.2733138417315315,"stability":3.0962679013272463,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20230412023402097"}]
-interval: 3
+difficulty: 5.47922896224195
+due: 20230508042851463
+grade: 2
+history: [{"due":"20230331162047473","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330162047473"},{"due":"20230408131041100","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230402131041100"},{"due":"20230412092744668","interval":9,"difficulty":6.14195525232829,"stability":1.4816364413634358,"retrievability":0.8419552523282889,"grade":0,"lapses":1,"reps":1,"review":"20230411092744668"},{"due":"20230415023402097","interval":1,"difficulty":6.2733138417315315,"stability":3.0962679013272463,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20230412023402097"},{"due":"20230422123718829","interval":3,"difficulty":6.376266919617338,"stability":7.22532779871485,"retrievability":0.9029530778858063,"grade":1,"lapses":1,"reps":3,"review":"20230415123718829"}]
+interval: 7
 lapses: 1
-modified: 20230415123718829
+modified: 20230422042851463
 modifier: zhangyanj
-reps: 3
-retrievability: 0.9029530778858063
-review: 20230415123718829
-stability: 7.22532779871485
+reps: 4
+retrievability: 0.9029620426246121
+review: 20230422042851463
+stability: 16.26842569833716
 stream-list: supermemo-guru汉化版/20230411092659983 supermemo-guru汉化版/20230412023027707
 stream-type: default
 tags: 元知识 . ?
