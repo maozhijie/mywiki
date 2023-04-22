@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_19/问题6：我能提出问题吗/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "你可以从六大“新闻问题”开始问起：\n                    \n                \n                    \n                        \n\t\t\t\t\n                    \n                \n                    \n                        \n\t\t\t\t\t\n                    \n                \n                    \n                        谁？\n                    \n                \n                    \n                        \n\t\t\t\t\t\n                    \n                \n                    \n                        什么？\n                    \n                \n                    \n                        \n\t\t\t\t\t\n                    \n                \n                    \n                        在哪里？\n                    \n                \n                    \n                        \n\t\t\t\t\t\n                    \n                \n                    \n                        什么时间？\n                    \n                \n                    \n                        \n\t\t\t\t\t\n                    \n                \n                    \n                        为什么？\n                    \n                \n                    \n                        \n\t\t\t\t\t\n                    \n                \n                    \n                        以什么方式？\n                    \n                \n                    \n                        \n\t\t\t\t\n                    \n                \n                    \n                        \n\t\t\t\n                    \n                \n                    \n                        \n\t\t\t\n                    \n                \n                    \n                        \n\t\t\t\t\n                    \n                \n                    \n                        你会注意到，对于某些特定的科目或者主题，这些问题并不都适用。举个例子，在地理学中，你很少问“谁？”这个问题，而对于历史或者英语文学，“谁？”这个问题却是你经常问的。\n                    \n                \n                    \n                        \n\t\t\t\t\n                    \n                \n                    \n                        一般而言，比起用“谁”、“什么”、“在哪里”及“什么时间”开头的问题，用“为什么”及“以什么方式”开头的问题，更能促使你去挖掘材料中的内容，更深入地去分析材料。例如，比起回答“美国内战是什么时候发生的，在哪里发生”，要回答“为什么会发生美国内战”这个问题，你需要更深入地分析材料。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "7551257c-fdd4-4be5-b6db-d35f7ca22f8f"
     }
 ]

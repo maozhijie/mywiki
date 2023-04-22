@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_18/问题5：什么是“专业问题”/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "如果某一个类型的问题反复多次在教科书里出现的话，这可能就是一个专业问题。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "专业问题的清单。这项任务，你必须自己解决，可以采取阅读教科书简介的方式，特别是每个章节总结中的问题。",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "3a87cabc-703e-4dd4-8097-dfc4e342daad"
     }
 ]

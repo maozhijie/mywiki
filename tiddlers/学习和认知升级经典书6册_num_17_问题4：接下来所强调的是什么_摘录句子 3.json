@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_17/问题4：接下来所强调的是什么/摘录句子 3",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "你可能注意到了我的预测很少有“猜对的”，在大部分情况下，作者选择去讲一些我没能预料到的内容。没有关系，特别是当我对这个科目一无所知的时候。问题4的意义不在于要进行正确的预测，而是在于让你与材料保持互动，提出其他问题，让你成为一个积极的参与者，而不是非常无聊而且不情不愿的旁观者。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "c7588630-c98f-4c5e-89c2-65b6566658fe"
     }
 ]

@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "学习和认知升级经典书6册/num_16/测一测：麻烦的教科书/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "不要将你的研究局限于教科书。你可以从百科全书、杂志文章及纪录片中学到很多。任何能够帮助你了解一个科目的信息来源都是很棒的。\n                    \n                \n                    \n                        \n\t\t\t\t\n                    \n                \n                    \n                        就算在你阅读主要教材的过程中没有遇到任何困难，有相关的补充信息也是很有助益的。对于相同的科目，每一个作者的处理方式、观点都不一样，解释的方式、强调的重点不一样，所用的例子也不一样。让你自己接触到不同的观点会为你提供巨大的优势。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "6cc90446-9792-4021-9232-29022bdddce9"
     }
 ]
