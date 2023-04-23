@@ -1,16 +1,16 @@
 caption: 
 created: 20230419022432645
-difficulty: 4.1045267970246115
-due: 20230423060919770
+difficulty: 3.2151482614016604
+due: 20230503022022569
 grade: 2
-history: [{"due":"20230420023818728","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419023818728"}]
-interval: 1
+history: [{"due":"20230420023818728","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419023818728"},{"due":"20230423060919770","interval":1,"difficulty":4.1045267970246115,"stability":3.3759302635391815,"retrievability":0.9045267970246111,"grade":2,"lapses":0,"reps":2,"review":"20230420060919770"}]
+interval: 3
 lapses: 0
-modified: 20230420060919770
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230420060919770
-stability: 3.3759302635391815
+modified: 20230423022022570
+reps: 3
+retrievability: 0.9106214643770485
+review: 20230423022022569
+stability: 9.931514549340982
 stream-list: 寻找注意力管理相关资料导入渐进阅读流程/20230420060907831
 stream-type: default
 tags: 注意力究竟应该怎么管理 想法 ?

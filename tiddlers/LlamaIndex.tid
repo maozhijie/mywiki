@@ -1,15 +1,15 @@
 created: 20230419072630907
-difficulty: 5.1045267970246115
-due: 20230423030445904
-grade: 1
-history: [{"due":"20230420083756588","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419083756588"}]
-interval: 1
+difficulty: 4.20598133300908
+due: 20230502022016742
+grade: 2
+history: [{"due":"20230420083756588","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419083756588"},{"due":"20230423030445904","interval":1,"difficulty":5.1045267970246115,"stability":3.0466963066680397,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20230420030445904"}]
+interval: 3
 lapses: 0
-modified: 20230420030445904
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230420030445904
-stability: 3.0466963066680397
+modified: 20230423022016742
+reps: 3
+retrievability: 0.9014545359844685
+review: 20230423022016742
+stability: 8.589361874455244
 stream-list: LlamaIndex/20230419072709461 LlamaIndex/20230419072712399
 stream-type: default
 tags: python 库 ?

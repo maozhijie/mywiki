@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "简明逻辑学/num_5/第三章 名称与量词：无名小卒是大人物吗？/摘录句子 2",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "本章要点\n                    \n                \n                    \n                        ·句子nP在一种情形下为真的条件是：由n所指称的对象在该情形下具有P所表述的特性。\n                    \n                \n                    \n                        ·Ǝx xP在一种情形下为真的条件是：只要在该情形下有个对象x，x具有xP特性。\n                    \n                \n                    \n                        ·∀x xP在一种情形下为真的条件是：只要在该情形下的每个对象x，x都具有xP特性。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "e7271dfa-2b57-4218-b9ab-0a4f6d6b6a7a"
     }
 ]

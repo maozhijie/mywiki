@@ -1,18 +1,18 @@
 caption: 
 created: 20230327165852208
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230423021714670
-grade: 1
-history: [{"due":"20230416122554869","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415122554869"}]
-interval: 2
+difficulty: 4.191646427147878
+due: 20230508022011710
+grade: 2
+history: [{"due":"20230416122554869","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415122554869"},{"due":"20230423021714670","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230417021714670"}]
+interval: 6
 lapses: 0
-modified: 20230417021714670
+modified: 20230423022011710
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230417021714670
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.891646427147878
+review: 20230423022011709
+stability: 15.377717495040983
 stream-list: 电子游戏的乐趣与实用的系统/20230411070135214
 stream-type: default
 tags: 想法 电子游戏 表达自我 . ?

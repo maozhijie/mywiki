@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "烧掉数学书：重新发明数学/num_30/2.1.1 噢，我到了！/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "它告诉我们解决问题——不仅是数学问题，也包括我们想解决的任何问题——的方法有两种：\n                    \n                \n                    \n                        1.直接解决问题。\n                    \n                \n                    \n                        2.解决一小部分问题，然后发现余下的问题类似于某个答案已知的问题。然后照做。",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "\n                        虽然数学家的行为很蠢，这个笑话还是突出了一个重点。",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "6bd4ed05-6ce9-4614-a834-ac1f83803b32"
     }
 ]

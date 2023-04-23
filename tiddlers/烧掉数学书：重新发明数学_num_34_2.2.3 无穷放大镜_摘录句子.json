@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "烧掉数学书：重新发明数学/num_34/2.2.3 无穷放大镜/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "数学的精髓不是将简单的事情变复杂，而是让复杂的事情变简单。\n                    \n                \n                    \n                        ——斯坦·古德尔（Stan Gudder）",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "bbc926f9-9ec9-47f5-b352-77a3aab879cd"
     }
 ]

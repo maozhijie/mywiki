@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "烧掉数学书：重新发明数学/num_27/不存在的绝对时间/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "几行推理就能改变我们对世界的认识。\n                    \n                \n                    \n                        ——斯蒂芬·兰兹伯格（Steven E.Landsburg），《扶手椅中的经济学家》（The Armchair Economist）",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "91848b7c-d582-4896-9487-c1671692c8f9"
     }
 ]

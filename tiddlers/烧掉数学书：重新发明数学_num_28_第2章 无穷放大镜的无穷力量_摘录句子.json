@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "烧掉数学书：重新发明数学/num_28/第2章 无穷放大镜的无穷力量/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "微积分是迄今为止人类智慧发明的最有力的思维武器。\n                    \n                \n                    \n                        ——威廉·本杰明·史密斯（W.B.Smith），《无穷小分析》（Infinitesimal Analysis）",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "705a329b-1639-47f8-a70f-41700af8e141"
     }
 ]

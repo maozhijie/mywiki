@@ -7,6 +7,7 @@
         "modifier": "zhangyanj",
         "title": "简明逻辑学/num_5/第三章 名称与量词：无名小卒是大人物吗？/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "像nobody（没人），someone（有人），everyone（每人）这样的词被现代逻辑学家称作量词，它们有别于“马卡斯”和“阿尼卡”这样的名称。我们前面的讨论表明，即使量词和名称都可作为句子的主语，它们也必然以不同的方式在起作用。那么，量词是如何起作用的呢？\n                    \n                \n                    \n                        以下是一个现代的标准答案。这涉及一个有很多对象的情形。在本例中，相关对象均是人。我们就此情形所进行的推理中，所有名称指的都是这一集合中的一个对象。如果我们用m来代替马卡斯，m指的就是这其中的一个对象。如果我们用H来代替is happy（很高兴），那么mH这一句在这一情形中为真的条件是：m所指的对象具有H所表述的特性。（有悖常情的是，逻辑学家通常颠倒了顺序，把该句写成Hm，而不是mH。这只是一个习惯问题。）",
         "priority": "0",
         "interval": "2",
@@ -16,6 +17,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "7341440e-7e7a-4639-8fc0-932c718ab930"
     }
 ]
