@@ -1,5 +1,5 @@
 created: 20230423072444029
-modified: 20230423072527875
+modified: 20230423095352678
 parent: git push错误码408问题解决
 stream-list: 
 stream-type: default
@@ -7,4 +7,4 @@ title: git push错误码408问题解决/20230423072444024
 tmap.id: 6ba3549c-1495-4d9f-a986-0efdc75c5389
 type: text/vnd.tiddlywiki
 
-问题出在某种缓存不够上
+问题出在某种缓存不够

@@ -1,9 +1,0 @@
-created: 20230327092639780
-modified: 20230329100916922
-tags: 项目 任务 工作
-title: chatx项目
-tmap.id: caab0e55-2982-418e-ba64-e0f133566781
-tmo_taskState: Running
-type: text/vnd.tiddlywiki
-
-参考 https://neon.tech/blog/building-an-ai-powered-chatbot-using-vercel-openai-and-postgres
