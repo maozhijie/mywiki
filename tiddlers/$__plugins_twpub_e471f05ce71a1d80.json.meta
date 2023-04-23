@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 3346
+count-images: 1
+cover-image: $:/plugins/twpub/e471f05ce71a1d80/images/OPS/images/cover.jpg
+description: 人月神话
+epub-creator: [美] 弗雷德里克·布鲁克斯
+epub-title: 人月神话
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/e471f05ce71a1d80
+type: application/json
+version: v0.0.1

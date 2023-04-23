@@ -1,0 +1,9 @@
+created: 20230423072459738
+modified: 20230423072528034
+parent: git push错误码408问题解决/20230423072456974
+stream-type: default
+title: git push错误码408问题解决/20230423072459734
+tmap.id: 01d93d90-37b5-4405-bdd1-85fa04085694
+type: text/vnd.tiddlywiki
+
+git config http.postBuffer 524288000
