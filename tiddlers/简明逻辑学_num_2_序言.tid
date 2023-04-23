@@ -1,16 +1,16 @@
 caption: {{||Excerpt}}
 created: 20230418064912361
-difficulty: 5.1045267970246115
-due: 20230423030437429
-grade: 1
-history: [{"due":"20230420022714328","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419022714328"}]
-interval: 1
+difficulty: 4.20598133300908
+due: 20230502032148800
+grade: 2
+history: [{"due":"20230420022714328","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419022714328"},{"due":"20230423030437429","interval":1,"difficulty":5.1045267970246115,"stability":3.0466963066680397,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20230420030437429"}]
+interval: 3
 lapses: 0
-modified: 20230420030437429
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230420030437429
-stability: 3.0466963066680397
+modified: 20230423032148800
+reps: 3
+retrievability: 0.9014545359844685
+review: 20230423032148800
+stability: 8.589361874455244
 tags: 简明逻辑学 . ?
 title: 简明逻辑学/num_2/序言
 tmap.id: cc387fb1-78c8-4b87-bbab-0624cbfcd0ff
