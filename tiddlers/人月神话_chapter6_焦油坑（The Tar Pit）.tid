@@ -1,8 +1,12 @@
 caption: {{||Excerpt}}
 created: 20230423072737408
-modified: 20230423072737408
-tags: 人月神话
+due: 20230424075132583
+interval: 1
+modified: 20230423075132583
+review: 20230423075132583
+tags: 人月神话 ? .
 title: 人月神话/chapter6/焦油坑（The Tar Pit）
+tmap.id: 2e2fb833-f6b8-474b-a88d-39e5b1e500b4
 twpub: $:/plugins/twpub/e471f05ce71a1d80
 twpub-after: $:/plugins/twpub/e471f05ce71a1d80/text/000000091
 twpub-before: $:/plugins/twpub/e471f05ce71a1d80/text/000000100
