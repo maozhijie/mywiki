@@ -5,6 +5,7 @@
         "modified": "20230423023700906",
         "title": "烧掉数学书：重新发明数学/num_22/1.2.9 用我们的发明作为跳板/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "前面我们对“斜率”进行了定义。下面我们将发现，这样做之后，我们就变出了一个不由我们掌控的真理世界。这个世界包含我们没有明确“放进去”的真理，它们对于我们可能不是很显然，但的确是源自我们的设定。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "什么东西。在“不是你想的那种无政府主义”一节，我曾解释过为什么不是这样，下面我们来看一个具体的例子。",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "d206c251-5fcb-4095-b1ae-d59b1b90183b"
     }
 ]
