@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 17349
+count-images: 1048
+cover-image: $:/plugins/twpub/9c45160a05348287/images/cover.jpeg
+description: 第一推动丛书·综合系列
+epub-creator: 彼得·阿特金斯
+epub-title: 第一推动丛书·综合系列
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/9c45160a05348287
+type: application/json
+version: v0.0.1
