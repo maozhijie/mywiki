@@ -1,18 +1,18 @@
 created: 20230414022814095
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230423023231174
+difficulty: 5.191646427147878
+due: 20230507030032030
 grade: 1
-history: [{"due":"20230417120707848","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415120707848"}]
-interval: 2
+history: [{"due":"20230417120707848","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415120707848"},{"due":"20230423023231174","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230417023231174"}]
+interval: 6
 lapses: 0
-modified: 20230417023231174
+modified: 20230423030032031
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230417023231174
-stability: 5.512139752431654
-stream-list: 对自我编程/20230414022827906 对自我编程/20230415120635184 对自我编程/20230417023049210
+reps: 3
+retrievability: 0.891646427147878
+review: 20230423030032030
+stability: 14.005473642002045
+stream-list: 对自我编程/20230414022827906 对自我编程/20230415120635184 对自我编程/20230417023049210 对自我编程/20230423025919183
 stream-type: default
 tags: ?
 title: 对自我编程

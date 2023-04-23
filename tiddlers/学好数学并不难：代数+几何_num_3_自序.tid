@@ -1,17 +1,17 @@
 caption: {{||Excerpt}}
 created: 20230417093507723
-difficulty: 5.148683298050514
-due: 20230423022323813
-grade: 1
-history: [{"due":"20230419071216147","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230418071216147"}]
-interval: 1
+difficulty: 4.242297437222169
+due: 20230504024806108
+grade: 2
+history: [{"due":"20230419071216147","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230418071216147"},{"due":"20230423022323813","interval":1,"difficulty":5.148683298050514,"stability":3.7467775080817907,"retrievability":0.9486832980505138,"grade":1,"lapses":0,"reps":2,"review":"20230419022323813"}]
+interval: 4
 lapses: 0
-modified: 20230419022323813
+modified: 20230423024806108
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9486832980505138
-review: 20230419022323813
-stability: 3.7467775080817907
+reps: 3
+retrievability: 0.8936141391716548
+review: 20230423024806108
+stability: 10.792846443408292
 tags: 学好数学并不难：代数+几何/num_2/学好数学并不难．代数 . ?
 title: 学好数学并不难：代数+几何/num_3/自序
 tmap.id: 6499f726-9c79-4f22-ac59-1c187a32d727

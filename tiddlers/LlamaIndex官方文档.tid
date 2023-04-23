@@ -1,17 +1,17 @@
 created: 20230419072714918
 creator: zhangyanj
-difficulty: 4.1045267970246115
-due: 20230423151249992
+difficulty: 3.2151482614016604
+due: 20230503024824597
 grade: 2
-history: [{"due":"20230420083801199","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419083801199"}]
-interval: 1
+history: [{"due":"20230420083801199","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419083801199"},{"due":"20230423151249992","interval":1,"difficulty":4.1045267970246115,"stability":3.3759302635391815,"retrievability":0.9045267970246111,"grade":2,"lapses":0,"reps":2,"review":"20230420151249992"}]
+interval: 3
 lapses: 0
-modified: 20230420151249992
+modified: 20230423024824597
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230420151249992
-stability: 3.3759302635391815
+reps: 3
+retrievability: 0.9106214643770485
+review: 20230423024824597
+stability: 9.931514549340982
 tags: LlamaIndex ?
 title: LlamaIndex官方文档
 tmap.id: 38ee376e-a5b3-4015-854d-9706e6482c8e

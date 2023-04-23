@@ -1,17 +1,17 @@
 created: 20230414101306162
 creator: zhangyanj
-difficulty: 4.1000000000000005
-due: 20230423023419030
+difficulty: 3.201431216877242
+due: 20230511025911853
 grade: 2
-history: [{"due":"20230417122406558","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415122406558"}]
-interval: 2
+history: [{"due":"20230417122406558","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415122406558"},{"due":"20230423023419030","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20230417023419030"}]
+interval: 6
 lapses: 0
-modified: 20230417023419030
+modified: 20230423025911853
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230417023419030
-stability: 6.091873624375545
+reps: 3
+retrievability: 0.9014312168772408
+review: 20230423025911853
+stability: 17.77422243756546
 stream-list: Pandoc/20230415122343398
 stream-type: default
 tags: 软件 ?
