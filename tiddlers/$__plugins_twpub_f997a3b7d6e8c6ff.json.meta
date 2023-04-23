@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 927
+count-images: 93
+cover-image: $:/plugins/twpub/f997a3b7d6e8c6ff/images/OEBPS/Images/cover00188.jpeg
+description: 控制论与科学方法论
+epub-creator: 金观涛、华国凡
+epub-title: 控制论与科学方法论
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/f997a3b7d6e8c6ff
+type: application/json
+version: v0.0.1
