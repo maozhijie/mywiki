@@ -1,15 +1,17 @@
 created: 20230423062315596
-difficulty: 3.7478003092274337
-due: 20230424062333270
-grade: -1
-history: []
-interval: 0
+difficulty: 2.852327106252045
+due: 20230428023516087
+grade: 2
+history: [{"due":"20230424062333270","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230423062333270"}]
+interval: 1
 lapses: 0
-modified: 20230423062333270
-reps: 1
-retrievability: 1
-review: 20230423062333270
-stability: 1.05
+modified: 20230424023516087
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230424023516087
+stability: 4.05082953668004
+stream-list: 系统科学了解一些/20230424023501648
+stream-type: default
 tags: 想法 ?
 title: 系统科学了解一些
 tmap.id: a91885f6-8de6-4f2c-bad9-82a034af3b89

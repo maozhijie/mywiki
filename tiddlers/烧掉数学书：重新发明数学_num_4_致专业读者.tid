@@ -1,16 +1,16 @@
 caption: {{||Excerpt}}
 created: 20230418063525225
-difficulty: 4.1045267970246115
-due: 20230424032555846
+difficulty: 3.2151482614016604
+due: 20230504023442966
 grade: 2
-history: [{"due":"20230421063820373","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420063820373"}]
-interval: 1
+history: [{"due":"20230421063820373","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420063820373"},{"due":"20230424032555846","interval":1,"difficulty":4.1045267970246115,"stability":3.3759302635391815,"retrievability":0.9045267970246111,"grade":2,"lapses":0,"reps":2,"review":"20230421032555846"}]
+interval: 3
 lapses: 0
-modified: 20230421032555846
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230421032555846
-stability: 3.3759302635391815
+modified: 20230424023442966
+reps: 3
+retrievability: 0.9106214643770485
+review: 20230424023442966
+stability: 9.931514549340982
 stream-list: 
 stream-type: default
 tags: 烧掉数学书：重新发明数学 . ?
