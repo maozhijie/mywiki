@@ -1,15 +1,15 @@
 created: 20230423025801750
-difficulty: 3.7478003092274337
-due: 20230424032209907
-grade: -1
-history: []
-interval: 0
+difficulty: 2.852327106252045
+due: 20230428030117232
+grade: 2
+history: [{"due":"20230424032209907","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230423032209907"}]
+interval: 1
 lapses: 0
-modified: 20230423032209907
-reps: 1
-retrievability: 1
-review: 20230423032209907
-stability: 1.05
+modified: 20230424030117232
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230424030117232
+stability: 4.05082953668004
 stream-list: 寻找编程基础相关的书籍导入渐进阅读流程/20230423025811793 寻找编程基础相关的书籍导入渐进阅读流程/20230423025819364 寻找编程基础相关的书籍导入渐进阅读流程/20230423025844749
 stream-type: default
 tags: 想法 ?

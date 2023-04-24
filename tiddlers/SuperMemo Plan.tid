@@ -1,15 +1,15 @@
 created: 20230413025105950
-difficulty: 5.0538149682454625
-due: 20230424022155205
-grade: 1
-history: [{"due":"20230416021554635","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414021554635"}]
-interval: 3
+difficulty: 4.157597992998135
+due: 20230512030120541
+grade: 2
+history: [{"due":"20230416021554635","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414021554635"},{"due":"20230424022155205","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20230417022155205"}]
+interval: 7
 lapses: 0
-modified: 20230417022155205
-reps: 2
-retrievability: 0.8538149682454624
-review: 20230417022155205
-stability: 7.290234566162131
+modified: 20230424030120541
+reps: 3
+retrievability: 0.9037830247526724
+review: 20230424030120541
+stability: 18.241572176620107
 stream-list: [[SuperMemo Plan/20230414021518170]] [[SuperMemo Plan/20230417022037496]] [[SuperMemo Plan/20230417022108929]]
 stream-type: default
 tags: superMemo ?
