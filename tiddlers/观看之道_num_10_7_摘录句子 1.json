@@ -5,6 +5,7 @@
         "modified": "20230423083804857",
         "title": "观看之道/num_10/7/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "广告是资本主义文化的生命——资本主义已经到了没有广告就难以生存的地步——同时，广告又是它的幻梦。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "42d2e32d-ecde-4d56-be2f-80eb460ebd72"
     }
 ]

@@ -1,18 +1,18 @@
 caption: {{||Excerpt}}
 created: 20230418063525342
 creator: zhangyanj
-difficulty: 5.1045267970246115
-due: 20230424032139825
-grade: 1
-history: [{"due":"20230421063215944","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420063215944"}]
-interval: 1
+difficulty: 4.20598133300908
+due: 20230503022823555
+grade: 2
+history: [{"due":"20230421063215944","interval":1,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420063215944"},{"due":"20230424032139825","interval":1,"difficulty":5.1045267970246115,"stability":3.0466963066680397,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20230421032139824"}]
+interval: 3
 lapses: 0
-modified: 20230421032139825
+modified: 20230424022823555
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230421032139824
-stability: 3.0466963066680397
+reps: 3
+retrievability: 0.9014545359844685
+review: 20230424022823554
+stability: 8.589361874455244
 stream-list: [[烧掉数学书：重新发明数学/num_17/1.2.4 任意和必然：发明斜率/20230420063147788]]
 stream-type: default
 tags: [[烧掉数学书：重新发明数学/num_13/1.2 如何发明数学概念]] . ?

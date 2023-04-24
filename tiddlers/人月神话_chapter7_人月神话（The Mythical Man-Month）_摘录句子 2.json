@@ -5,6 +5,7 @@
         "modified": "20230423075616529",
         "title": "人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 2",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "在单个的任务中，\"一切都将运转正常\"的假设在时间进度上具有可实现性。因为所遇\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        的延迟是一个概率分布曲线，\"不会延迟\"仅具有有限的概率，所以现实情况可能会像计划安排的那样顺利。然而大型的编程工作，或多或少包含了很多任务，某些任务间还具有前后的次序，从而一切正常的概率变得非常小，甚至接近于无。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "77a43044-0089-4170-bf57-a702370db0fb"
     }
 ]

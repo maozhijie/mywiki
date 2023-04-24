@@ -5,6 +5,7 @@
         "modified": "20230423080118842",
         "title": "人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 5",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "对于软件任务的进度安排，以下是我使用了很多年的经验法则：\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        1/3计划\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        1/6编码\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        1/4构件测试和早期系统测试\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        1/4系统测试，所有的构件已完成\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        在许多重要的方面，它与传统的进度安排方法不同：\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        1. 分配给计划的时间比寻常的多。即便如此，仍不足以产生详细和稳定的计划规格说明，也不足以容纳对全新技术的研究和摸索。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        2. 对所完成代码的调试和测试，投入近一半的时间，比平常的安排多很多。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        3. 容易估计的部分，即编码，仅仅分配了六分之一的时间。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "8f8a15e8-6dc1-4a9f-896c-1d38072750f4"
     }
 ]

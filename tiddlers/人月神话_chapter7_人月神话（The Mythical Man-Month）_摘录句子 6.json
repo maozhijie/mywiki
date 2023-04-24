@@ -5,6 +5,7 @@
         "modified": "20230423080218720",
         "title": "人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 6",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "特别需要指出的是，不为系统测试安排足够的时间简直就是一场灾难。因为延迟发生在项目快完成的时候。直到项目的发布日期，才有人发现进度上的问题。因此，坏消息没有任何预兆，很晚才出现在客户和项目经理面前。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        另外，此时此刻的延迟具有不寻常的、严重的财务和心理上的反应。在此之前，项目已经配置了充足的人员，每天的人力成本也已经达到了最大的限度。更重要的是，当软件用来支持其他的商业活动（计算机硬件到货，新设备、服务上线等等）时，这些活动延误出现即将发布前，那么将付出相当高的商业代价。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        实际上，上述的二次成本远远高于其他开销。因此，在早期进度策划时，允许充分的系统测试时间是非常重要的。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "30644ab6-e5cd-476f-94cf-630ece51cc07"
     }
 ]

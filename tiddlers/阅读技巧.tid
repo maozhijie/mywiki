@@ -1,17 +1,17 @@
 created: 20230420061533044
 creator: zhangyanj
-difficulty: 5.1045267970246115
-due: 20230424030400480
-grade: 1
-history: [{"due":"20230421151222505","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420151222505"}]
-interval: 1
+difficulty: 4.20598133300908
+due: 20230503020211299
+grade: 2
+history: [{"due":"20230421151222505","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420151222505"},{"due":"20230424030400480","interval":1,"difficulty":5.1045267970246115,"stability":3.0466963066680397,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20230421030400480"}]
+interval: 3
 lapses: 0
-modified: 20230421030400480
+modified: 20230424020211299
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230421030400480
-stability: 3.0466963066680397
+reps: 3
+retrievability: 0.9014545359844685
+review: 20230424020211298
+stability: 8.589361874455244
 stream-list: 阅读技巧/20230420154325877
 stream-type: default
 tags: 元知识 ?

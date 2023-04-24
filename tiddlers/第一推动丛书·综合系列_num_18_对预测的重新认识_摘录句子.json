@@ -5,6 +5,7 @@
         "modified": "20230423092259176",
         "title": "第一推动丛书·综合系列/num_18/对预测的重新认识/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "然而混沌的发现给了精确预测的梦想最后一击。混沌指的是一些系统——混沌系统——对于其初始位置和动量的测量如果有极其微小的不精确，也会导致对其的长期预测产生巨大的误差。也就是常说的“对初始条件的敏感依赖性”。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "f2384425-399a-4b73-ad38-4d86ffdcae63"
     }
 ]

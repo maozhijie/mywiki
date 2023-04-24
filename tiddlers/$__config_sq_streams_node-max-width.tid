@@ -1,0 +1,9 @@
+caption: Maximum node width
+created: 20230424022241962
+description: Maximum displayed width of a Stream node
+modified: 20230424022242362
+settings-template: $:/plugins/sq/streams/ui/templates/settings/input
+title: $:/config/sq/streams/node-max-width
+type: text/vnd.tiddlywiki
+
+650

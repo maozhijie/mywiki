@@ -5,6 +5,7 @@
         "modified": "20230423092318016",
         "title": "第一推动丛书·综合系列/num_18/对预测的重新认识/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "而对初始条件的敏感依赖性指的是，如果系统是混沌的，在测量初始位置时即使只有极其微小的误差，在预测其未来的运动时也会产生巨大的误差。对于这样的系统（飓风就是例子），一点点误差，不管多小，也会导致长期预测很不精确。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "你的预测即使不全对，也会八九不离十。例如天文学家在测量行星位置时即使误差较大，也还是能准确预测日食。",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "2d33e17b-bc99-4d82-8459-c9532f9e03da"
     }
 ]

@@ -5,6 +5,7 @@
         "modified": "20230423082711359",
         "title": "观看之道/num_10/7/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "在广告世界中，不同品牌或厂商展开竞争；同时每个广告影像也确认并强化了对手。广告不仅是互相竞争的信息大组合，本身还是一种语言，传达一个共同信息。广告可以提供不同的选择，你可以选这种奶油或那种奶油，这辆车或那辆车，但广告作为一个体系，只提供了一种信息。\n                    \n                \n                    \n                        广告建议我们每个人以多购多买来改变自我或生活。\n                    \n                \n                    \n                        广告说我们只要多消费，就会更富有——虽然我们在花钱后，只会变得更穷。\n                    \n                \n                    \n                        广告推出业已改变而备受羡慕的人士，并说服我们追求类似的改变。令人羡慕的状况就是构成魅力之所在，而广告就是制造魅力的过程。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "8244fd40-dee2-4646-8ed4-26d19196e1fb"
     }
 ]
