@@ -1,17 +1,17 @@
 created: 20230414095716081
 creator: zhangyanj
-difficulty: 5.1000000000000005
-due: 20230425022527302
-grade: 1
-history: [{"due":"20230419021642248","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230417021642248"}]
-interval: 2
+difficulty: 4.191646427147878
+due: 20230510064145850
+grade: 2
+history: [{"due":"20230419021642248","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230417021642248"},{"due":"20230425022527302","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230419022527301"}]
+interval: 6
 lapses: 0
-modified: 20230419022527302
+modified: 20230425064145850
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9
-review: 20230419022527301
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.891646427147878
+review: 20230425064145849
+stability: 15.377717495040983
 stream-list: 计算机图形/20230415121528718
 stream-type: default
 tags: 搁置 ?
