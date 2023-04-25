@@ -2,8 +2,8 @@
     {
         "created": "20230419151903180",
         "creator": "zhangyanj",
-        "tags": "效率脑科学：卓有成效地完成每一项工作/num_24/重演：一想起来就头疼的项目 ? .",
-        "modified": "20230424024340143",
+        "tags": "效率脑科学：卓有成效地完成每一项工作/num_24/重演：一想起来就头疼的项目 . ?",
+        "modified": "20230425055556425",
         "modifier": "zhangyanj",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_24/重演：一想起来就头疼的项目/摘录句子 3",
         "type": "text/vnd.tiddlywiki",
@@ -11,8 +11,8 @@
         "caption": "脑力善用\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        通过概括并聚焦重点要素来简化信息。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        面对过量信息时，把信息分成组块进行处理。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        练习先把最重要的演员放到舞台上，而不是把最容易请到的演员放到舞台上。",
         "priority": "0",
         "interval": "1",
-        "due": "20230425024340143",
-        "review": "20230424024340143",
+        "due": "20230429055556425",
+        "review": "20230425055556425",
         "annotate-text": "脑力善用\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        通过概括并聚焦重点要素来简化信息。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        面对过量信息时，把信息分成组块进行处理。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        练习先把最重要的演员放到舞台上，而不是把最容易请到的演员放到舞台上。",
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
@@ -21,12 +21,12 @@
         "tmap.id": "f820c42e-7645-4f8c-93e1-73ac108ed0e2",
         "stream-list": "[[效率脑科学：卓有成效地完成每一项工作/num_24/重演：一想起来就头疼的项目/摘录句子 3/20230421061135784]]",
         "stream-type": "default",
-        "difficulty": "3.7478003092274337",
-        "stability": "1.05",
-        "retrievability": "1",
+        "difficulty": "2.852327106252045",
+        "stability": "4.05082953668004",
+        "retrievability": "0.9045267970246111",
         "lapses": "0",
-        "reps": "1",
-        "grade": "-1",
-        "history": "[]"
+        "reps": "2",
+        "grade": "2",
+        "history": "[{\"due\":\"20230425024340143\",\"interval\":1,\"difficulty\":3.7478003092274337,\"stability\":1.05,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20230424024340143\"}]"
     }
 ]

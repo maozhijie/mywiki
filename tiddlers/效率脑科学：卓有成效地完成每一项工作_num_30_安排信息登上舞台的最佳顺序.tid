@@ -1,17 +1,17 @@
 caption: {{||Excerpt}}
 created: 20230418023831370
-difficulty: 3.7478003092274337
-due: 20230425024353402
-grade: -1
-history: []
+difficulty: 2.852327106252045
+due: 20230429055747854
+grade: 2
+history: [{"due":"20230425024353402","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424024353402"}]
 interval: 1
 lapses: 0
-modified: 20230424024353402
-reps: 1
-retrievability: 1
-review: 20230424024353402
-stability: 1.05
-tags: 效率脑科学：卓有成效地完成每一项工作/num_25/场景三：一心多用 ? .
+modified: 20230425055747854
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230425055747854
+stability: 4.05082953668004
+tags: 效率脑科学：卓有成效地完成每一项工作/num_25/场景三：一心多用 . ?
 title: 效率脑科学：卓有成效地完成每一项工作/num_30/安排信息登上舞台的最佳顺序
 tmap.id: bf3c83a7-46e2-4011-a34b-e488d71c650e
 twpub: $:/plugins/twpub/844017fee11ec492
