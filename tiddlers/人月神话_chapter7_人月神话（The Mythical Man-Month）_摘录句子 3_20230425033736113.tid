@@ -1,0 +1,10 @@
+created: 20230425033736118
+modified: 20230425033809158
+parent: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 3/20230425033702719
+stream-list: 
+stream-type: default
+title: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 3/20230425033736113
+tmap.id: 8cc6408b-6d56-4c6f-9a06-622f1ede785b
+type: text/vnd.tiddlywiki
+
+在系统编程中近乎不可能。 当任务由于次序上的限制不能分解时，人手的添加对进度没有帮助（图2.2）。无论多少个母亲，孕育一个生命都需要十个月。由于调试、测试的次序特性，许多软件都具有这种特征， 图2.2：人员和时间之间的关系–无法分解的任务 

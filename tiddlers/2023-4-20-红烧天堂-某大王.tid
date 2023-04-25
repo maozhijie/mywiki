@@ -1,18 +1,18 @@
 caption: 
 created: 20230420154555927
 creator: zhangyanj
-difficulty: 5.1045267970246115
-due: 20230425034406417
-grade: 1
-history: [{"due":"20230422025102131","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230421025102131"}]
-interval: 1
+difficulty: 4.20598133300908
+due: 20230504032154275
+grade: 2
+history: [{"due":"20230422025102131","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230421025102131"},{"due":"20230425034406417","interval":1,"difficulty":5.1045267970246115,"stability":3.0466963066680397,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20230422034406417"}]
+interval: 3
 lapses: 0
-modified: 20230422034406417
+modified: 20230425032154275
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230422034406417
-stability: 3.0466963066680397
+reps: 3
+retrievability: 0.9014545359844685
+review: 20230425032154275
+stability: 8.589361874455244
 stream-list: 2023-4-20-红烧天堂-某大王/20230420154635237 2023-4-20-红烧天堂-某大王/20230420154748732 2023-4-20-红烧天堂-某大王/20230422034324107 2023-4-20-红烧天堂-某大王/20230420154817223
 stream-type: default
 tags: 材料 ?

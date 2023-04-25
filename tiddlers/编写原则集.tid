@@ -1,15 +1,15 @@
 created: 20230424030327783
-difficulty: 3.7478003092274337
-due: 20230425030644404
-grade: -1
-history: []
-interval: 0
+difficulty: 2.852327106252045
+due: 20230429032223811
+grade: 2
+history: [{"due":"20230425030644404","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424030644404"}]
+interval: 1
 lapses: 0
-modified: 20230424030644404
-reps: 1
-retrievability: 1
-review: 20230424030644404
-stability: 1.05
+modified: 20230425032223811
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230425032223811
+stability: 4.05082953668004
 stream-list: 编写原则集/20230424030352677
 stream-type: default
 tags: 想法 ?

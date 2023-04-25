@@ -1,15 +1,15 @@
 created: 20230413030453673
-difficulty: 4.0538149682454625
-due: 20230425022018161
+difficulty: 3.15582558608373
+due: 20230518031600888
 grade: 2
-history: [{"due":"20230416021700809","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414021700809"}]
-interval: 3
+history: [{"due":"20230416021700809","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230414021700809"},{"due":"20230425022018161","interval":3,"difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":2,"lapses":0,"reps":2,"review":"20230417022018160"}]
+interval: 8
 lapses: 0
-modified: 20230417022018161
-reps: 2
-retrievability: 0.8538149682454624
-review: 20230417022018160
-stability: 8.17310579005002
+modified: 20230425031600888
+reps: 3
+retrievability: 0.9020106178382677
+review: 20230425031600888
+stability: 23.008966034645493
 stream-list: 如何提高我对电子游戏的鉴赏能力?/20230413030735921 如何提高我对电子游戏的鉴赏能力?/20230413030725033 如何提高我对电子游戏的鉴赏能力?/20230413030900887 如何提高我对电子游戏的鉴赏能力?/20230413031153024 如何提高我对电子游戏的鉴赏能力?/20230414021611870
 stream-type: default
 tags: 电子游戏 想法 ?
