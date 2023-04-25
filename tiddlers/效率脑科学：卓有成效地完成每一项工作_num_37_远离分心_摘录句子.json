@@ -5,6 +5,7 @@
         "modified": "20230424083444789",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_37/远离分心/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "当人们抑制自己的本能反应时，哪些大脑网络会被激活。他们发现，前额皮质中的一个特定区域对所有类型的抑制行为都起到了关键作用，这个区域就是“腹外侧前额皮质”（VLPFC，见下图），它位于左右两个太阳穴的后侧。VLPFC 区域可以抑制许多类型的反应，包括运动反应、认知反应和情绪反应。看起来，大脑有许多不同的“油门”分别参与语言、情绪、运动和记忆，但是所有类型的“刹车”行为都依靠着 VLPFC 系统（虽然其他脑区也参与“刹车”，但 VLPFC 似乎是“刹车”功能的核心）。你的专注程度与你运用这个“刹车”系统的能力密切相关。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "颜色。运用功能性磁共振成像（fMRI）等扫描技术可以记录大脑中血流的流动情况，这让神经科学家观察到了",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "e70367b0-caa3-4e18-8945-333fe780855d"
     }
 ]

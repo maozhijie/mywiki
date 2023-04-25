@@ -5,6 +5,7 @@
         "modified": "20230424083021472",
         "title": "效率脑科学：卓有成效地完成每一项工作/num_35/内部干扰源/摘录句子 2",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "几个世纪以来，哲学家们写过许多关于思绪难以控制的著作。对此，东方哲学中有一个著名的比喻，名为“象与骑象人”：有意识的意志就像骑象人，试图控制比它大得多的大象，即不受控制的无意识心智。现代脑科学似乎证实了这个比喻是贴切的，毕竟前额皮质只占大脑总体积的 4%。前额皮质是进行有意识决策的核心，能够施加一定的影响力。但大脑的其他部分更庞大、更有力。因此，加强前额皮质和大脑其他部分的连接是很重要的。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "02874178-9ee4-4519-83ed-1aac02008887"
     }
 ]

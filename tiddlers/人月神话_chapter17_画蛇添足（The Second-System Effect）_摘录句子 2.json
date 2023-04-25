@@ -5,6 +5,7 @@
         "modified": "20230424113411793",
         "title": "人月神话/chapter17/画蛇添足（The Second-System Effect）/摘录句子 2",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "结构师如何避免画蛇添足–开发第二个系统所引起的后果（second-system effect）？是的，他无法跳过二次系统。但他可以有意识关注那些系统的特殊危险，运用特别的自我约束准则，来避免那些功能上的修饰；根据系统基本理念及目的变更，舍弃一些功能。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        一个可以开阔结构师眼界的准则是为每个小功能分配一个值：每次改进，功能x不超过m字节的内存和n微秒。这些值会在一开始作为决策的向导，在物理实现期间充当指南和对所有人的警示。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        项目经理如何避免画蛇添足（second-system effect）？他必须坚持至少拥有两个系统以上开发经验结构师的决定。同时，保持对特殊诱惑的警觉，他可以不断提出正确的问题，确保原则上的概念和目标在详细设计中得到完整的体现。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "df7f89a9-0831-453f-8744-a3a776faef2b"
     }
 ]

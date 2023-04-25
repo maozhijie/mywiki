@@ -5,6 +5,7 @@
         "modified": "20230424113136490",
         "title": "人月神话/chapter17/画蛇添足（The Second-System Effect）/摘录句子",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "面对估算过高的难题，结构师有两个选择：削减设计或者建议成本更低的实现方法–挑战估算的结果。后者是固有的主观感性反应。此时，结构师是在向开发人员的做事方式\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        提出挑战。想要成功，结构师必须\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        .. 牢记是开发人员承担创造性和发明性的实现责任，所以结构师只能建议，而不能支配；\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        .. 时刻准备着为所指定的说明建议一种实现的方法，同样准备接受其他任何能达到目标的方法；\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        .. 对上述的建议保持低调和平静；\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        .. 准备放弃坚持所作的改进建议；\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        ",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "一般开发人员会反对体系结构上的修改建议。通常他是对的–当正在实现产品时，某些特性的修改会造成意料不到",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "1a75d4bf-212f-4707-825a-792cf307b302"
     }
 ]

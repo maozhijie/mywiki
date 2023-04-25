@@ -5,6 +5,7 @@
         "modified": "20230424113212782",
         "title": "人月神话/chapter17/画蛇添足（The Second-System Effect）/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "在开发第一个系统时，结构师倾向于精炼和简洁。他知道自己对正在进行的任务不够了解，所以他会谨慎仔细地工作。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        在设计第一个项目时，他会面对不断产生的装饰和润色功能。这些功能都被搁置在一边，作为\"下一个\"项目的内容。第一个项目迟早会结束，而此时的结构师，对这类系统充满了十足的信心，熟练掌握了相应的知识，并且时刻准备开发第二个系统。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        第二个系统是设计师们所设计的最危险的系统。而当他着手第三个或第四个系统时，先前的经验会相互验证，得到此类系统通用特性的判断，而且系统之间的差异会帮助他识别出经验中不够通用的部分。\n                    \n                \n                    \n                        \n\n                    \n                \n                    \n                        ",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "一种普遍倾向是过分地设计第二个系统，向系统添加很多修饰功能和想法，它们曾在第一个系统中被小心谨慎地推",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "82ed4b14-0d5e-4c42-8a44-3e60b4f1de95"
     }
 ]
