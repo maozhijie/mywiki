@@ -1,17 +1,17 @@
 caption: {{||Excerpt}}
 created: 20230418023831382
-difficulty: 3.7478003092274337
-due: 20230425030236356
-grade: -1
-history: []
+difficulty: 2.852327106252045
+due: 20230429031529011
+grade: 2
+history: [{"due":"20230425030236356","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424030236356"}]
 interval: 1
 lapses: 0
-modified: 20230424030236357
-reps: 1
-retrievability: 1
-review: 20230424030236356
-stability: 1.05
-tags: 效率脑科学：卓有成效地完成每一项工作/num_25/场景三：一心多用 ? .
+modified: 20230425031529011
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230425031529011
+stability: 4.05082953668004
+tags: 效率脑科学：卓有成效地完成每一项工作/num_25/场景三：一心多用 . ?
 title: 效率脑科学：卓有成效地完成每一项工作/num_32/重演：一心多用
 tmap.id: 43b2669b-9c86-4360-b0c1-84323ccf74e6
 twpub: $:/plugins/twpub/844017fee11ec492

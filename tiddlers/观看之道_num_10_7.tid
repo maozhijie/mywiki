@@ -1,17 +1,17 @@
 caption: {{||Excerpt}}
 created: 20230418063806257
-difficulty: 3.7478003092274337
-due: 20230425030214472
-grade: -1
-history: []
+difficulty: 2.852327106252045
+due: 20230429031434239
+grade: 2
+history: [{"due":"20230425030214472","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424030214472"}]
 interval: 1
 lapses: 0
-modified: 20230424030214472
-reps: 1
-retrievability: 1
-review: 20230424030214472
-stability: 1.05
-tags: 观看之道 ? .
+modified: 20230425031434239
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230425031434239
+stability: 4.05082953668004
+tags: 观看之道 . ?
 title: 观看之道/num_10/7
 tmap.id: 05d8d701-2202-4418-9447-b3bdcbc7a36a
 twpub: $:/plugins/twpub/5a8a3ca926d4f386

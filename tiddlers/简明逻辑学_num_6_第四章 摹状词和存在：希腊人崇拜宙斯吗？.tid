@@ -1,17 +1,17 @@
 caption: {{||Excerpt}}
 created: 20230418064912379
-difficulty: 3.7478003092274337
-due: 20230425030302464
-grade: -1
-history: []
+difficulty: 3.852327106252045
+due: 20230428025824523
+grade: 1
+history: [{"due":"20230425030302464","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424030302464"}]
 interval: 1
 lapses: 0
-modified: 20230424030302465
-reps: 1
-retrievability: 1
-review: 20230424030302464
-stability: 1.05
-tags: 简明逻辑学 ? .
+modified: 20230425025824523
+reps: 2
+retrievability: 0.9045267970246111
+review: 20230425025824523
+stability: 3.481502087013605
+tags: 简明逻辑学 . ?
 title: 简明逻辑学/num_6/第四章 摹状词和存在：希腊人崇拜宙斯吗？
 tmap.id: 541fb2e9-9fb3-467d-a301-92d5db63141b
 twpub: $:/plugins/twpub/e583933bd51b1d8a

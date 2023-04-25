@@ -1,18 +1,18 @@
 caption: 
 created: 20230204065857901
 creator: WhiteFall
-difficulty: 4.249437315928357
-due: 20230425023200629
-grade: 1
-history: [{"due":"20230331161914241","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161914241"},{"due":"20230414070106076","interval":3,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20230411070106076"}]
-interval: 3
+difficulty: 3.3484707040969512
+due: 20230524031533227
+grade: 2
+history: [{"due":"20230331161914241","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230330161914241"},{"due":"20230414070106076","interval":3,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20230411070106076"},{"due":"20230425023200629","interval":3,"difficulty":4.249437315928357,"stability":10.888941779895356,"retrievability":0.949437315928356,"grade":1,"lapses":0,"reps":3,"review":"20230414023200629"}]
+interval: 11
 lapses: 0
-modified: 20230414023200629
+modified: 20230425031533227
 modifier: zhangyanj
-reps: 3
-retrievability: 0.949437315928356
-review: 20230414023200629
-stability: 10.888941779895356
+reps: 4
+retrievability: 0.8990333881685945
+review: 20230425031533227
+stability: 29.36605406189494
 stream-list: Self-Growth知识结构模型/20230414023043828
 stream-type: default
 tags: 元知识 摄入媒介 材料 . ?
