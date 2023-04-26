@@ -1,19 +1,19 @@
 caption: {{||Excerpt}}
 created: 20230418063525429
 creator: zhangyanj
-difficulty: 3.7478003092274337
-due: 20230426023316617
-grade: -1
-history: []
+difficulty: 2.765969035763036
+due: 20230503142709300
+grade: 2
+history: [{"due":"20230426023316617","interval":2,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424023316617"}]
 interval: 2
 lapses: 0
-modified: 20230424023316617
+modified: 20230426142709300
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230424023316617
-stability: 1.05
-tags: 烧掉数学书：重新发明数学/num_24/插曲1：变慢的时间 ? .
+reps: 2
+retrievability: 0.8181687265356021
+review: 20230426142709300
+stability: 7.1532397818765
+tags: 烧掉数学书：重新发明数学/num_24/插曲1：变慢的时间 . ?
 title: 烧掉数学书：重新发明数学/num_27/不存在的绝对时间
 tmap.id: d7e1c6e2-0d34-42b8-a431-7654bd49f903
 twpub: $:/plugins/twpub/f6dab4f1b1df5707
