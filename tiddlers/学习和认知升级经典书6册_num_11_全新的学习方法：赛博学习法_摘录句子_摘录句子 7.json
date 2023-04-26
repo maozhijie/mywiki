@@ -5,6 +5,7 @@
         "modified": "20230425025107063",
         "title": "学习和认知升级经典书6册/num_11/全新的学习方法：赛博学习法/摘录句子/摘录句子 7",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "问题8：如何进行改述和总结 在你选择、记录重要信息的过程中，你应该用你自己的话，尽可能简短地来表述作者的意思。 ",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": " 你必须分辨哪些信息是重要的，值得你把它们写进你的笔记里，主要的判断依据是你的阅读目的（问题1）。 ",
         "annotate-suffix": "问题9：如何重新组织这些内容 记完笔记之后，仔细看看你的笔记，看看文章是如何组织信息的，同时，也想想",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "46069aa8-56ae-4b71-aefe-ae7132e48abc"
     }
 ]

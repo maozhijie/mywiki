@@ -1,0 +1,14 @@
+created: 20230426021622609
+modified: 20230426021640231
+parent: LangChain 中文入门教程/20230426021615138
+stream-list: 
+stream-type: default
+title: LangChain 中文入门教程/20230426021622604
+tmap.id: e3e9f3bb-ec27-4b8d-8db3-a5bc422089e4
+type: text/vnd.tiddlywiki
+
+支持多种模型接口，比如 OpenAI、HuggingFace、AzureOpenAI ...
+Fake LLM，用于测试
+缓存的支持，比如 in-mem（内存）、SQLite、Redis、SQL
+用量记录
+支持流模式（就是一个字一个字的返回，类似打字效果）

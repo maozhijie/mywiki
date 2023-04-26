@@ -1,0 +1,10 @@
+created: 20230426021528730
+modified: 20230426021535983
+parent: LangChain 中文入门教程/20230426021521491
+stream-list: 
+stream-type: default
+title: LangChain 中文入门教程/20230426021528724
+tmap.id: 5f966d04-f600-4998-ac69-e2f382caf688
+type: text/vnd.tiddlywiki
+
+可以将 LLM 模型与外部数据源进行连接

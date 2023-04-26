@@ -1,0 +1,10 @@
+created: 20230426021640226
+modified: 20230426021736330
+parent: LangChain 中文入门教程/20230426021610482
+stream-list: [[LangChain 中文入门教程/20230426021718041]]
+stream-type: default
+title: LangChain 中文入门教程/20230426021640221
+tmap.id: e2bfa989-ee3c-44c4-8d1e-bf47d156f07c
+type: text/vnd.tiddlywiki
+
+Prompt管理，支持各种自定义模板,拥有大量的文档加载器，比如 Email、Markdown、PDF、Youtube ... 对索引的支持

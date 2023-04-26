@@ -5,6 +5,7 @@
         "modified": "20230425064216134",
         "title": "简明逻辑学/num_4/第二章 真值函数及其他/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "，析取命题句a V b和合取命题句a&b的真值完全是由命题句a与b的真值决定的。逻辑学家把这样的运算称为真值函数。但是，有很多理由表明，英语中的or和and不是真值函数——至少不一定是真值函数。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "来结束本章。这里所说的并不那么直截。综上所述，否定命题句﹁a的真值完全是由命题句a的真值决定的。同样",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "7f3b1630-8d02-4888-8d17-417cf777c22e"
     }
 ]

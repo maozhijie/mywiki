@@ -1,0 +1,12 @@
+created: 20230426021718048
+modified: 20230426021735486
+parent: LangChain 中文入门教程/20230426021640221
+stream-list: 
+stream-type: default
+title: LangChain 中文入门教程/20230426021718041
+tmap.id: aa55910a-0e11-4e65-8e6d-766dcb294758
+type: text/vnd.tiddlywiki
+
+文档分割器
+向量化
+对接向量存储与搜索，比如 Chroma、Pinecone、Qdrand

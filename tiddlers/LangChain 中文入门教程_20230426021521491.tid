@@ -1,0 +1,10 @@
+created: 20230426021521502
+modified: 20230426021611248
+parent: LangChain 中文入门教程
+stream-list: [[LangChain 中文入门教程/20230426021528724]] [[LangChain 中文入门教程/20230426021535974]]
+stream-type: default
+title: LangChain 中文入门教程/20230426021521491
+tmap.id: 00494a72-f945-4de1-ae69-9d5b98659182
+type: text/vnd.tiddlywiki
+
+LangChain 是一个用于开发由语言模型驱动的应用程序的框架。他主要拥有 2 个能力：
