@@ -1,19 +1,19 @@
 caption: {{||Excerpt}}
 created: 20230418063806251
 creator: zhangyanj
-difficulty: 3.7478003092274337
-due: 20230426020116175
-grade: -1
-history: []
+difficulty: 3.765969035763036
+due: 20230502032053731
+grade: 1
+history: [{"due":"20230426020116175","interval":2,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424020116175"}]
 interval: 2
 lapses: 0
-modified: 20230424020116175
+modified: 20230426032053731
 modifier: zhangyanj
-reps: 1
-retrievability: 1
-review: 20230424020116175
-stability: 1.05
-tags: 观看之道 ? .
+reps: 2
+retrievability: 0.8181687265356021
+review: 20230426032053731
+stability: 5.967448622216206
+tags: 观看之道 . ?
 title: 观看之道/num_8/5
 tmap.id: 0906a46f-5080-440e-b24a-b5e466a1ed71
 twpub: $:/plugins/twpub/5a8a3ca926d4f386
