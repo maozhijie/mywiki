@@ -5,6 +5,7 @@
         "modified": "20230426031158615",
         "title": "观看之道/num_8/5/摘录句子 3",
         "type": "text/vnd.tiddlywiki",
+        "text": "",
         "caption": "油画以写物为主。实际上，物品是可以购买的。描绘物品在画布上，同把它买回家中没有区别。你买一幅画时，同时也买回画上所绘物品的表象。",
         "priority": "0",
         "interval": "2",
@@ -14,6 +15,7 @@
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
-        "annotate-blend-mode": "multiply"
+        "annotate-blend-mode": "multiply",
+        "tmap.id": "4dc4d61c-bb30-4a32-9445-63788e5ccff7"
     }
 ]
