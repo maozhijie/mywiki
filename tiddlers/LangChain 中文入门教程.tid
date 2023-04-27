@@ -1,16 +1,16 @@
 caption: 
 created: 20230425111831273
-difficulty: 2.9854211216321387
-due: 20230427022029810
-grade: -1
-history: []
-interval: 0
+difficulty: 2.017993034191999
+due: 20230502030700589
+grade: 2
+history: [{"due":"20230427022029810","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230426022029810"}]
+interval: 1
 lapses: 0
-modified: 20230426022029810
-reps: 1
-retrievability: 1
-review: 20230426022029810
-stability: 0.5750000000000001
+modified: 20230427030700589
+reps: 2
+retrievability: 0.8325719125598604
+review: 20230427030700589
+stability: 4.871687477859231
 stream-list: [[LangChain 中文入门教程/20230425111849682]] [[LangChain 中文入门教程/20230426021521491]] [[LangChain 中文入门教程/20230426021610482]]
 stream-type: default
 tags: 材料 ?

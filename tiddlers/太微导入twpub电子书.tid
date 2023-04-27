@@ -1,16 +1,16 @@
 caption: 
 created: 20230418022122753
-difficulty: 4.1000000000000005
-due: 20230427032617446
+difficulty: 3.201431216877242
+due: 20230515030337150
 grade: 2
-history: [{"due":"20230421015841951","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419015841951"}]
-interval: 2
+history: [{"due":"20230421015841951","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230419015841951"},{"due":"20230427032617446","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20230421032617446"}]
+interval: 6
 lapses: 0
-modified: 20230421032617446
-reps: 2
-retrievability: 0.9
-review: 20230421032617446
-stability: 6.091873624375545
+modified: 20230427030337150
+reps: 3
+retrievability: 0.9014312168772408
+review: 20230427030337150
+stability: 17.77422243756546
 stream-list: 太微导入twpub电子书/20230419015757360
 stream-type: default
 tags: tiddlyWiki twpub ?

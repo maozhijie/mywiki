@@ -1,21 +1,30 @@
 [
     {
         "created": "20230425064232074",
+        "text": "",
         "tags": "[[简明逻辑学/num_7/第五章 自我指代：这章内容是关于什么的？]] ? .",
-        "modified": "20230425064232074",
+        "modified": "20230427025853462",
         "title": "简明逻辑学/num_7/第五章 自我指代：这章内容是关于什么的？/摘录句子 1",
         "type": "text/vnd.tiddlywiki",
-        "text": "",
         "caption": "本章要点\n                    \n                \n                    \n                        ·句子既可为真又可为假，既可同时为真又为假，又可既不为真也不为假。",
         "priority": "0",
-        "interval": "2",
-        "due": "20230427064232074",
-        "review": "20230425064232074",
+        "interval": "1",
+        "due": "20230428025853461",
+        "review": "20230427025853461",
         "annotate-text": "本章要点\n                    \n                \n                    \n                        ·句子既可为真又可为假，既可同时为真又为假，又可既不为真也不为假。",
         "annotate-prefix": "    \n                    \n                        ",
         "annotate-suffix": "\n                    \n                \n           ",
         "annotate-colour": "LightSkyBlue",
         "annotate-blend-mode": "multiply",
-        "tmap.id": "2c9f187e-0439-4736-bea3-f76e810315c6"
+        "tmap.id": "2c9f187e-0439-4736-bea3-f76e810315c6",
+        "stream-list": "[[简明逻辑学/num_7/第五章 自我指代：这章内容是关于什么的？/摘录句子 1/20230427025824480]]",
+        "stream-type": "default",
+        "difficulty": "2.9854211216321387",
+        "stability": "0.5750000000000001",
+        "retrievability": "1",
+        "lapses": "0",
+        "reps": "1",
+        "grade": "-1",
+        "history": "[]"
     }
 ]
