@@ -1,18 +1,18 @@
 caption: {{||Excerpt}}
 created: 20230418064912374
 creator: zhangyanj
-difficulty: 3.852327106252045
-due: 20230427020139177
+difficulty: 3.9655376274328784
+due: 20230506023205085
 grade: 1
-history: [{"due":"20230424032135998","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230423032135998"}]
-interval: 1
+history: [{"due":"20230424032135998","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230423032135998"},{"due":"20230427020139177","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20230424020139177"}]
+interval: 3
 lapses: 0
-modified: 20230424020139177
+modified: 20230427023205085
 modifier: zhangyanj
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230424020139177
-stability: 3.481502087013605
+reps: 3
+retrievability: 0.9132105211808327
+review: 20230427023205085
+stability: 9.107539255087826
 tags: 简明逻辑学 . ?
 title: 简明逻辑学/num_5/第三章 名称与量词：无名小卒是大人物吗？
 tmap.id: 7ade7049-1006-48b4-b125-8f788604a393
