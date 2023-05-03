@@ -1,16 +1,18 @@
 caption: 
 created: 20230407104242493
-difficulty: 5.191646427147878
-due: 20230502064420888
-grade: 1
-history: [{"due":"20230412110820171","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410110820171"},{"due":"20230418021927454","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230412021927453"}]
-interval: 6
+creator: zhangyanj
+difficulty: 4.284938083668902
+due: 20230606134903827
+grade: 2
+history: [{"due":"20230412110820171","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230410110820171"},{"due":"20230418021927454","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230412021927453"},{"due":"20230502064420888","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20230418064420888"}]
+interval: 15
 lapses: 0
-modified: 20230418064420888
-reps: 3
-retrievability: 0.891646427147878
-review: 20230418064420888
-stability: 14.005473642002045
+modified: 20230503134903827
+modifier: zhangyanj
+reps: 4
+retrievability: 0.8932916565210242
+review: 20230503134903827
+stability: 34.16146366716348
 stream-list: python/20230418064403461
 stream-type: default
 tags: 待完善 编程语言 ?

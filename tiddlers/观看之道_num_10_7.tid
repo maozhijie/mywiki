@@ -1,16 +1,18 @@
 caption: {{||Excerpt}}
 created: 20230418063806257
-difficulty: 2.852327106252045
-due: 20230429031434239
+creator: zhangyanj
+difficulty: 1.864471672040399
+due: 20230601134845444
 grade: 2
-history: [{"due":"20230425030214472","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424030214472"}]
-interval: 1
+history: [{"due":"20230425030214472","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424030214472"},{"due":"20230429031434239","interval":1,"difficulty":2.852327106252045,"stability":4.05082953668004,"retrievability":0.9045267970246111,"grade":2,"lapses":0,"reps":2,"review":"20230425031434239"}]
+interval: 8
 lapses: 0
-modified: 20230425031434239
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230425031434239
-stability: 4.05082953668004
+modified: 20230503134845444
+modifier: zhangyanj
+reps: 3
+retrievability: 0.8121445657883537
+review: 20230503134845444
+stability: 28.600848068145506
 tags: 观看之道 . ?
 title: 观看之道/num_10/7
 tmap.id: 05d8d701-2202-4418-9447-b3bdcbc7a36a
