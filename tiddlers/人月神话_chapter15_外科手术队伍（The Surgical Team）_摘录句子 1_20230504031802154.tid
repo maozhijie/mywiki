@@ -1,0 +1,10 @@
+created: 20230504031802161
+modified: 20230504031807453
+parent: 人月神话/chapter15/外科手术队伍（The Surgical Team）/摘录句子 1/20230504031414094
+stream-list: 
+stream-type: default
+title: 人月神话/chapter15/外科手术队伍（The Surgical Team）/摘录句子 1/20230504031802154
+tmap.id: 1d729203-f2e4-4ee4-9850-0f9968b98b72
+type: text/vnd.tiddlywiki
+
+测试人员。外科医生需要大量合适的测试用例，用来对他所编写的工作片段，以及对整个工作进行测试。因此，测试人员既是为他的各个功能设计系统测试用例的对头，同时也是为他的日常调试设计测试数据的助手。他还负责计划测试的步骤和为测试搭建测试平台。 

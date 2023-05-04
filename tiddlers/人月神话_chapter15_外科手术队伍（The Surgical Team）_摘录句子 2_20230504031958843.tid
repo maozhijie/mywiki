@@ -1,0 +1,10 @@
+created: 20230504031958849
+modified: 20230504032006181
+parent: 人月神话/chapter15/外科手术队伍（The Surgical Team）/摘录句子 2/20230504031941545
+stream-list: 
+stream-type: default
+title: 人月神话/chapter15/外科手术队伍（The Surgical Team）/摘录句子 2/20230504031958843
+tmap.id: 2ad1c5cd-9ede-4d74-ab01-13b62d9fdbb8
+type: text/vnd.tiddlywiki
+
+首先，传统的团队将工作进行划分，每人负责一部分工作的设计和实现。在外科手术团队中，外科医生和副手都了解所有的设计和全部的代码。这节省了空间分配、磁盘访问等的劳动量，同时也确保了工作概念上的完整性。 
