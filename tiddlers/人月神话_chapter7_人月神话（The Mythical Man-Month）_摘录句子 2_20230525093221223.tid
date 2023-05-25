@@ -1,0 +1,10 @@
+created: 20230525093221228
+modified: 20230525093315062
+parent: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 2
+stream-list: 
+stream-type: default
+title: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 2/20230525093221223
+tmap.id: 67a1f178-2b1e-49b1-8a16-13da87e61736
+type: text/vnd.tiddlywiki
+
+在单个的任务中，"一切都将运转正常"的假设在时间进度上具有可实现性。因为所遇的延迟是一个概率分布曲线，"不会延迟"仅具有有限的概率，所以现实情况可能会像计划安排的那样顺利。

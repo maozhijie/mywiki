@@ -1,0 +1,10 @@
+created: 20230525093439932
+modified: 20230525093440971
+parent: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 4/20230525093437583
+stream-list: 
+stream-type: default
+title: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 4/20230525093439926
+tmap.id: 5998a1f5-9dff-4938-9b25-08f8115ee18a
+type: text/vnd.tiddlywiki
+
+在时间进度中，顺序限制所造成的影响，没有哪个部分比单元调试和系统测试所受到的牵涉更彻底。而且，要求的时间依赖于所遇到的错误、缺陷数量以及捕捉它们的程度。理论上，缺陷的数量应该为零。但是，由于我们的乐观主义，通常实际出现的缺陷数量比预料的要多得多。因此，系统测试进度的安排常常是编程中最不合理的部分。
