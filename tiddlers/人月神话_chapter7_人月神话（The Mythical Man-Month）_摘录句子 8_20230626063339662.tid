@@ -1,0 +1,10 @@
+created: 20230626063339668
+modified: 20230626063509851
+parent: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 8/20230626063251244
+stream-list: [[人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 8/20230626063417941]] [[人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 8/20230626063508587]]
+stream-type: default
+title: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 8/20230626063339662
+tmap.id: e04be3f4-0b75-4a63-8541-b9bfa71f026c
+type: text/vnd.tiddlywiki
+
+我们来考虑一个例子3。设想一个估计需要12个人月的任务，分派给3个成员4个月时间，在每个月的末尾安排了可测量的里程碑A、B、C、D（图2.5）。 现在假定两个月之后，第一个里程碑没有达到（图2.6）。

@@ -1,15 +1,15 @@
 created: 20230423062315596
-difficulty: 2.852327106252045
-due: 20230428023516087
-grade: 2
-history: [{"due":"20230424062333270","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230423062333270"}]
-interval: 1
+difficulty: 2.2465777979049877
+due: 20231106064022950
+grade: 1
+history: [{"due":"20230424062333270","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230423062333270"},{"due":"20230428023516087","interval":1,"difficulty":2.852327106252045,"stability":4.05082953668004,"retrievability":0.9045267970246111,"grade":2,"lapses":0,"reps":2,"review":"20230424023516087"}]
+interval: 63
 lapses: 0
-modified: 20230424023516087
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230424023516087
-stability: 4.05082953668004
+modified: 20230626064022950
+reps: 3
+retrievability: 0.19425069165294231
+review: 20230626064022950
+stability: 133.16470332739902
 stream-list: 系统科学了解一些/20230424023501648
 stream-type: default
 tags: 想法 ?

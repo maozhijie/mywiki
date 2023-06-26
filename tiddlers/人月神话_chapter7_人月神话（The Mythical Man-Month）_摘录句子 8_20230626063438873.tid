@@ -1,0 +1,10 @@
+created: 20230626063438879
+modified: 20230626063508600
+parent: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 8/20230626063417941
+stream-list: 
+stream-type: default
+title: 人月神话/chapter7/人月神话（The Mythical Man-Month）/摘录句子 8/20230626063438873
+tmap.id: 2f5a34e2-ac23-475a-b39f-f67d47ac5f77
+type: text/vnd.tiddlywiki
+
+4. 削减任务。在现实情况中，一旦开发团队观察到进度的偏差，总是倾向于对任务进行削减。当项目延期所导致的后续成本非常高时，这常常是唯一可行的方法。项目经理的相应措施是仔细、正式地调整项目，重新安排进度；或者是默默地注视着任务项由于轻率的设计和不完整的测试而被剪除。 

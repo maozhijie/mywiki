@@ -1,16 +1,16 @@
 caption: {{||Excerpt}}
 created: 20230418023831376
-difficulty: 3.852327106252045
-due: 20230428055806829
+difficulty: 3.2054824186366693
+due: 20231003065636450
 grade: 1
-history: [{"due":"20230425024409093","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424024409093"}]
-interval: 1
+history: [{"due":"20230425024409093","interval":1,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230424024409093"},{"due":"20230428055806829","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20230425055806829"}]
+interval: 62
 lapses: 0
-modified: 20230425055806829
-reps: 2
-retrievability: 0.9045267970246111
-review: 20230425055806829
-stability: 3.481502087013605
+modified: 20230626065636450
+reps: 3
+retrievability: 0.15315531238462415
+review: 20230626065636450
+stability: 99.42895687023088
 tags: 效率脑科学：卓有成效地完成每一项工作/num_25/场景三：一心多用 . ?
 title: 效率脑科学：卓有成效地完成每一项工作/num_31/混搭注意力
 tmap.id: 595fe6c4-7d5c-4345-8f08-8844ca3e5bef
